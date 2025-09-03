@@ -1,81 +1,30 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
 interface UtilityState {
-  showMoreSynopsis: {
-    display: boolean,
-    data: string
-  };
-  showReview: {
-    display: boolean,
-    data: any | null
-  };
-  showAnimePictures: {
-    display: boolean,
-    data: any | null
-  };
-  searchParam: string;
-  profileButtonClick: boolean;
-  mobileNavClick: boolean;
+  buttonClick: {
+    label: string,
+    value: boolean
+  }
 }
 
 const initialState: UtilityState = {
-  showMoreSynopsis: {
-    display: false,
-    data: ''
-  },
-  showReview: {
-    display: false,
-    data: null
-  },
-  showAnimePictures: {
-    display: false,
-    data: null
-  },
-  searchParam: '',
-  profileButtonClick: false,
-  mobileNavClick: false,
+  buttonClick: {
+    label: '',
+    value: false
+  }
 };
 
 const utilitySlice = createSlice({
   name: 'utility',
   initialState,
   reducers: {
-    setShowMoreSynopsis: (state, action:PayloadAction<{display: boolean, data:string}>) => {
-      state.showMoreSynopsis = {
-        display: action.payload.display,
-        data: action.payload.data
-      }
-    },
-    setShowReview: (state, action:PayloadAction<{display: boolean, data:any | null}>) => {
-      state.showReview = {
-        display: action.payload.display,
-        data: action.payload.data
-      }
-    },
-    setShowAnimePicture: (state, action:PayloadAction<{display: boolean, data:any | null}>) => {
-      state.showAnimePictures = {
-        display: action.payload.display,
-        data: action.payload.data
-      }
-    },
-    setSearchParam: (state, action:PayloadAction<string>) => {
-      state.searchParam = action.payload
-    },
-    setProfileButtonClick: (state, action:PayloadAction<boolean>) => {
-      state.profileButtonClick = action.payload
-    },
-    setMobileNavClick: (state, action:PayloadAction<boolean>) => {
-      state.mobileNavClick = action.payload
+    setButtonClick: (state, action:PayloadAction<{label: string, value:boolean}>) => {
+      state.buttonClick = action.payload
     },
   },
 });
 
 export const {
-  setShowMoreSynopsis,
-  setShowReview,
-  setShowAnimePicture,
-  setSearchParam,
-  setProfileButtonClick,
-  setMobileNavClick
+  setButtonClick
 } = utilitySlice.actions;
 export default utilitySlice.reducer

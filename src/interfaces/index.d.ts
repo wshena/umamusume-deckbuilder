@@ -19,3 +19,13 @@ interface SubLinkProps {
   label: string,
   link: string
 }
+
+interface LinkProps {
+  label: string,
+  link: string
+}
+
+interface FooterNavigationProps {
+  label:string,
+  links: LinkProps[]
+}

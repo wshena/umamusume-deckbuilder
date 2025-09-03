@@ -33,12 +33,15 @@ const Navbar = () => {
   const [exploreClick, setExploreClick] = useState(false);
 
   return (
-    <header className="border-b border-gray-700 bg-gray-900 py-3">
+    <header className="bg-gray-900 py-3">
       <ContentContainer>
         <nav aria-label='header navigations' className='flex items-center justify-between'>
           {/* left side */}
           <div className="flex items-center gap-10">
+            {/* logo */}
             <h1 className="text-xl font-bold text-purple-500">LOGO</h1>
+
+            {/* navigation links */}
             <ul className='hidden md:flex items-center gap-5'>
               {HEADER_NAV.map((item: NavLinkProps) => (
                 <li key={item.id} className="relative">

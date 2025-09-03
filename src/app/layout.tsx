@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import MainContainer from "@/components/containers/MainContainer";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -26,12 +27,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta charSet="UTF-8" />
+        <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="og:title" content="Umamusume Deckbuilder" data-rh="true" />
+        <meta name="og:site_name" content="Umamusume Deckbuilder" data-rh="true" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <MainContainer>
           <Navbar />
           {children}
+          <Footer />
         </MainContainer>
       </body>
     </html>
