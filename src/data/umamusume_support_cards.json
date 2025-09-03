@@ -1,0 +1,2938 @@
+{
+  "SSR_Supports": {
+    "Speed": [
+      {
+        "name": "SSR Silence Suzuka (Beyond This Shining Moment)",
+        "url": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(Beyond_This_Shining_Moment)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30002_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30002_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tokai Teio (Dream Big!)",
+        "url": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(Dream_Big!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30003_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30003_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gold City (Run(my)way)",
+        "url": "https://umamusu.wiki/Game:SSR_Gold_City_(Run(my)way)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30014_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30014_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Bakushin O (Eat Fast! Yum Fast!)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(Eat_Fast!_Yum_Fast!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30015_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30015_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nishino Flower (Even the Littlest Bud)",
+        "url": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(Even_the_Littlest_Bud)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30018_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30018_Card.png&width=200"
+      },
+      {
+        "name": "SSR Biko Pegasus (Double Carrot Punch!)",
+        "url": "https://umamusu.wiki/Game:SSR_Biko_Pegasus_(Double_Carrot_Punch!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30020_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30020_Card.png&width=200"
+      },
+      {
+        "name": "SSR Special Week (The Setting Sun and Rising Stars)",
+        "url": "https://umamusu.wiki/Game:SSR_Special_Week_(The_Setting_Sun_and_Rising_Stars)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30025_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30025_Card.png&width=200"
+      },
+      {
+        "name": "SSR Twin Turbo (Turbo Booooost!)",
+        "url": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(Turbo_Booooost!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30026_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30026_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kitasan Black (Fire at My Heels)",
+        "url": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(Fire_at_My_Heels)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30028_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30028_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kawakami Princess (Princess Bride)",
+        "url": "https://umamusu.wiki/Game:SSR_Kawakami_Princess_(Princess_Bride)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30039_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30039_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Brian (Two Pieces)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Brian_(Two_Pieces)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30044_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30044_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sweep Tosho (It's All Mine!)",
+        "url": "https://umamusu.wiki/Game:SSR_Sweep_Tosho_(It%27s_All_Mine!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30045_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30045_Card.png&width=200"
+      },
+      {
+        "name": "SSR Taiki Shuttle (Hands up, crook!)",
+        "url": "https://umamusu.wiki/Game:SSR_Taiki_Shuttle_(Hands_up,_crook!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30053_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30053_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gold Ship (That Time I Became the Strongest)",
+        "url": "https://umamusu.wiki/Game:SSR_Gold_Ship_(That_Time_I_Became_the_Strongest)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30057_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30057_Card.png&width=200"
+      },
+      {
+        "name": "SSR Zenno Rob Roy (魔力授かりし英雄)",
+        "url": "https://umamusu.wiki/Game:SSR_Zenno_Rob_Roy_(%E9%AD%94%E5%8A%9B%E6%8E%88%E3%81%8B%E3%82%8A%E3%81%97%E8%8B%B1%E9%9B%84)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30065_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30065_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mayano Top Gun (フォーメーション：PARTY)",
+        "url": "https://umamusu.wiki/Game:SSR_Mayano_Top_Gun_(%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%9APARTY)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30072_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30072_Card.png&width=200"
+      },
+      {
+        "name": "SSR Silence Suzuka (まだ見ぬ景色を求めて)",
+        "url": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(%E3%81%BE%E3%81%A0%E8%A6%8B%E3%81%AC%E6%99%AF%E8%89%B2%E3%82%92%E6%B1%82%E3%82%81%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30076_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30076_Card.png&width=200"
+      },
+      {
+        "name": "SSR Matikanefukukitaru (袖振り合えば福となる♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Matikanefukukitaru_(%E8%A2%96%E6%8C%AF%E3%82%8A%E5%90%88%E3%81%88%E3%81%B0%E7%A6%8F%E3%81%A8%E3%81%AA%E3%82%8B%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30078_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30078_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tosen Jordan (In my way)",
+        "url": "https://umamusu.wiki/Game:SSR_Tosen_Jordan_(In_my_way)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30084_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30084_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Top Road (桃色のバックショット)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Top_Road_(%E6%A1%83%E8%89%B2%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30086_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30086_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Shakur (mag!c number)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Shakur_(mag!c_number)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30092_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30092_Card.png&width=200"
+      },
+      {
+        "name": "SSR Seeking the Pearl (そのエールは世界を変えた)",
+        "url": "https://umamusu.wiki/Game:SSR_Seeking_the_Pearl_(%E3%81%9D%E3%81%AE%E3%82%A8%E3%83%BC%E3%83%AB%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30095_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30095_Card.png&width=200"
+      },
+      {
+        "name": "SSR Agnes Tachyon (Q≠0)",
+        "url": "https://umamusu.wiki/Game:SSR_Agnes_Tachyon_(Q%E2%89%A00)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30101_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30101_Card.png&width=200"
+      },
+      {
+        "name": "SSR Maruzensky (おセンチ注意報♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Maruzensky_(%E3%81%8A%E3%82%BB%E3%83%B3%E3%83%81%E6%B3%A8%E6%84%8F%E5%A0%B1%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30107_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30107_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daitaku Helios (お日さま天使ちゃん♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%E3%81%8A%E6%97%A5%E3%81%95%E3%81%BE%E5%A4%A9%E4%BD%BF%E3%81%A1%E3%82%83%E3%82%93%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30116_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30116_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ardan (夜風に舞うは祈りの花)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ardan_(%E5%A4%9C%E9%A2%A8%E3%81%AB%E8%88%9E%E3%81%86%E3%81%AF%E7%A5%88%E3%82%8A%E3%81%AE%E8%8A%B1)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30119_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30119_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mihono Bourbon (U & Me)",
+        "url": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(U_%26_Me)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30121_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30121_Card.png&width=200"
+      },
+      {
+        "name": "SSR Eishin Flash (Danke schön)",
+        "url": "https://umamusu.wiki/Game:SSR_Eishin_Flash_(Danke_sch%C3%B6n)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30122_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30122_Card.png&width=200"
+      },
+      {
+        "name": "SSR Marvelous Sunday (マーベラス☆ショコラSHOW)",
+        "url": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E3%83%9E%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9%E2%98%86%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9SHOW)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30131_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30131_Card.png&width=200"
+      },
+      {
+        "name": "SSR Katsuragi Ace (掲げよ、燃え盛る灯を)",
+        "url": "https://umamusu.wiki/Game:SSR_Katsuragi_Ace_(%E6%8E%B2%E3%81%92%E3%82%88%E3%80%81%E7%87%83%E3%81%88%E7%9B%9B%E3%82%8B%E7%81%AF%E3%82%92)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30135_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30135_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tokai Teio (比翼のワルツ)",
+        "url": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E6%AF%94%E7%BF%BC%E3%81%AE%E3%83%AF%E3%83%AB%E3%83%84)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30140_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30140_Card.png&width=200"
+      },
+      {
+        "name": "SSR Jungle Pocket (The frontier)",
+        "url": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(The_frontier)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30147_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30147_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Palmer (カモメのように)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(%E3%82%AB%E3%83%A2%E3%83%A1%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30154_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30154_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Groove (Seaside Bloom)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Groove_(Seaside_Bloom)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30159_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30159_Card.png&width=200"
+      },
+      {
+        "name": "SSR El Condor Pasa (大望は飛んでいく)",
+        "url": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(%E5%A4%A7%E6%9C%9B%E3%81%AF%E9%A3%9B%E3%82%93%E3%81%A7%E3%81%84%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30161_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30161_Card.png&width=200"
+      },
+      {
+        "name": "SSR Fine Motion (Hello my clover)",
+        "url": "https://umamusu.wiki/Game:SSR_Fine_Motion_(Hello_my_clover)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30167_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30167_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gold Ship (波をかきわけ夢がゆく)",
+        "url": "https://umamusu.wiki/Game:SSR_Gold_Ship_(%E6%B3%A2%E3%82%92%E3%81%8B%E3%81%8D%E3%82%8F%E3%81%91%E5%A4%A2%E3%81%8C%E3%82%86%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30168_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30168_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Dober (聖夜、変わるために)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Dober_(%E8%81%96%E5%A4%9C%E3%80%81%E5%A4%89%E3%82%8F%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30174_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30174_Card.png&width=200"
+      },
+      {
+        "name": "SSR Duramente (血脈の胎動)",
+        "url": "https://umamusu.wiki/Game:SSR_Duramente_(%E8%A1%80%E8%84%88%E3%81%AE%E8%83%8E%E5%8B%95)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30178_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30178_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Bakushin O (感謝感謝！サクラ吹雪！！)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(%E6%84%9F%E8%AC%9D%E6%84%9F%E8%AC%9D%EF%BC%81%E3%82%B5%E3%82%AF%E3%83%A9%E5%90%B9%E9%9B%AA%EF%BC%81%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30184_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30184_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gentildonna (Balliamo?)",
+        "url": "https://umamusu.wiki/Game:SSR_Gentildonna_(Balliamo%3F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30186_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30186_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vivlos (とっておきのレヴェランス)",
+        "url": "https://umamusu.wiki/Game:SSR_Vivlos_(%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%AE%E3%83%AC%E3%83%B4%E3%82%A7%E3%83%A9%E3%83%B3%E3%82%B9)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30192_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30192_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yamanin Zephyr (浚いの風)",
+        "url": "https://umamusu.wiki/Game:SSR_Yamanin_Zephyr_(%E6%B5%9A%E3%81%84%E3%81%AE%E9%A2%A8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30196_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30196_Card.png&width=200"
+      },
+      {
+        "name": "SSR Verxina (紺碧の戴冠式)",
+        "url": "https://umamusu.wiki/Game:SSR_Verxina_(%E7%B4%BA%E7%A2%A7%E3%81%AE%E6%88%B4%E5%86%A0%E5%BC%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30205_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30205_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vivlos (アルストロメリアの夢)",
+        "url": "https://umamusu.wiki/Game:SSR_Vivlos_(%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2%E3%81%AE%E5%A4%A2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30206_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30206_Card.png&width=200"
+      },
+      {
+        "name": "SSR Smart Falcon (波間のオフショット)",
+        "url": "https://umamusu.wiki/Game:SSR_Smart_Falcon_(%E6%B3%A2%E9%96%93%E3%81%AE%E3%82%AA%E3%83%95%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30210_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30210_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tokai Teio (開催☆ハチャメチャGP！)",
+        "url": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E9%96%8B%E5%82%AC%E2%98%86%E3%83%8F%E3%83%81%E3%83%A3%E3%83%A1%E3%83%81%E3%83%A3GP%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30213_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30213_Card.png&width=200"
+      },
+      {
+        "name": "SSR Still in Love (Devilish Whispers)",
+        "url": "https://umamusu.wiki/Game:SSR_Still_in_Love_(Devilish_Whispers)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30215_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30215_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Brian (咆哮のアポヤンド)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Brian_(%E5%92%86%E5%93%AE%E3%81%AE%E3%82%A2%E3%83%9D%E3%83%A4%E3%83%B3%E3%83%89)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30224_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30224_Card.png&width=200"
+      },
+      {
+        "name": "SSR Meisho Doto (不屈の遠吠え)",
+        "url": "https://umamusu.wiki/Game:SSR_Meisho_Doto_(%E4%B8%8D%E5%B1%88%E3%81%AE%E9%81%A0%E5%90%A0%E3%81%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30230_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30230_Card.png&width=200"
+      },
+      {
+        "name": "SSR Maruzensky (ふりさけみれば天花のわらう)",
+        "url": "https://umamusu.wiki/Game:SSR_Maruzensky_(%E3%81%B5%E3%82%8A%E3%81%95%E3%81%91%E3%81%BF%E3%82%8C%E3%81%B0%E5%A4%A9%E8%8A%B1%E3%81%AE%E3%82%8F%E3%82%89%E3%81%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30235_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30235_Card.png&width=200"
+      },
+      {
+        "name": "SSR Seeking the Pearl (飛び立つヴィーナス)",
+        "url": "https://umamusu.wiki/Game:SSR_Seeking_the_Pearl_(%E9%A3%9B%E3%81%B3%E7%AB%8B%E3%81%A4%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8A%E3%82%B9)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30236_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30236_Card.png&width=200"
+      },
+      {
+        "name": "SSR Almond Eye (世界を変える眼差し)",
+        "url": "https://umamusu.wiki/Game:SSR_Almond_Eye_(%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E7%9C%BC%E5%B7%AE%E3%81%97)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30242_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30242_Card.png&width=200"
+      },
+      {
+        "name": "SSR Dream Journey (誘うは夢心地)",
+        "url": "https://umamusu.wiki/Game:SSR_Dream_Journey_(%E8%AA%98%E3%81%86%E3%81%AF%E5%A4%A2%E5%BF%83%E5%9C%B0)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30246_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30246_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Kris S (Operation: Escort)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Operation:_Escort)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30247_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30247_Card.png&width=200"
+      },
+      {
+        "name": "SSR Rhein Kraft (Unveiled Dream)",
+        "url": "https://umamusu.wiki/Game:SSR_Rhein_Kraft_(Unveiled_Dream)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30253_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30253_Card.png&width=200"
+      },
+      {
+        "name": "SSR Fusaichi Pandora (ゼッタイ☆天才伝説)",
+        "url": "https://umamusu.wiki/Game:SSR_Fusaichi_Pandora_(%E3%82%BC%E3%83%83%E3%82%BF%E3%82%A4%E2%98%86%E5%A4%A9%E6%89%8D%E4%BC%9D%E8%AA%AC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30259_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30259_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro McQueen (グレイッシュPARTY☆)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A5PARTY%E2%98%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30260_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30260_Card.png&width=200"
+      },
+      {
+        "name": "SSR Admire Groove (氷結晶の静域)",
+        "url": "https://umamusu.wiki/Game:SSR_Admire_Groove_(%E6%B0%B7%E7%B5%90%E6%99%B6%E3%81%AE%E9%9D%99%E5%9F%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30265_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30265_Card.png&width=200"
+      }
+    ],
+    "Stamina": [
+      {
+        "name": "SSR Gold Ship (Breakaway Battleship)",
+        "url": "https://umamusu.wiki/Game:SSR_Gold_Ship_(Breakaway_Battleship)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30004_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30004_Card.png&width=200"
+      },
+      {
+        "name": "SSR Seiun Sky (Foolproof Plan)",
+        "url": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(Foolproof_Plan)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30008_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30008_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tamamo Cross (Split the Sky, White Lightning!)",
+        "url": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(Split_the_Sky,_White_Lightning!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30009_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30009_Card.png&width=200"
+      },
+      {
+        "name": "SSR Super Creek (Piece of Mind)",
+        "url": "https://umamusu.wiki/Game:SSR_Super_Creek_(Piece_of_Mind)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30016_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30016_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro McQueen (Your Team Ace)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(Your_Team_Ace)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30022_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30022_Card.png&width=200"
+      },
+      {
+        "name": "SSR Rice Shower (Showered in Joy)",
+        "url": "https://umamusu.wiki/Game:SSR_Rice_Shower_(Showered_in_Joy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30023_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30023_Card.png&width=200"
+      },
+      {
+        "name": "SSR Satono Diamond (The Will to Overtake)",
+        "url": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(The_Will_to_Overtake)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30029_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30029_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Chiyono O (Peak Sakura Season)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Chiyono_O_(Peak_Sakura_Season)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30038_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30038_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nakayama Festa (43、8、1)",
+        "url": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(43%E3%80%818%E3%80%811)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30043_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30043_Card.png&width=200"
+      },
+      {
+        "name": "SSR Winning Ticket (Full-Blown Tantrum)",
+        "url": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(Full-Blown_Tantrum)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30046_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30046_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mihono Bourbon (Fugue of Fortune)",
+        "url": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(Fugue_of_Fortune)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30059_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30059_Card.png&width=200"
+      },
+      {
+        "name": "SSR Silence Suzuka (Winning Dream)",
+        "url": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(Winning_Dream)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30062_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30062_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Brian (天嗤う鏑矢)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Brian_(%E5%A4%A9%E5%97%A4%E3%81%86%E9%8F%91%E7%9F%A2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30069_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30069_Card.png&width=200"
+      },
+      {
+        "name": "SSR Manhattan Cafe (独奏・螺旋追走曲)",
+        "url": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(%E7%8B%AC%E5%A5%8F%E3%83%BB%E8%9E%BA%E6%97%8B%E8%BF%BD%E8%B5%B0%E6%9B%B2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30075_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30075_Card.png&width=200"
+      },
+      {
+        "name": "SSR Meisho Doto (飛びも出でぬべき心地すれ)",
+        "url": "https://umamusu.wiki/Game:SSR_Meisho_Doto_(%E9%A3%9B%E3%81%B3%E3%82%82%E5%87%BA%E3%81%A7%E3%81%AC%E3%81%B9%E3%81%8D%E5%BF%83%E5%9C%B0%E3%81%99%E3%82%8C)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30079_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30079_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Bright (リトル・バイ・リトル)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Bright_(%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%AA%E3%83%88%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30087_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30087_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Rudolf (Enchaînement)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(Encha%C3%AEnement)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30090_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30090_Card.png&width=200"
+      },
+      {
+        "name": "SSR Ikuno Dictus (愛すべき金蘭のつどい)",
+        "url": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E9%87%91%E8%98%AD%E3%81%AE%E3%81%A4%E3%81%A9%E3%81%84)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30099_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30099_Card.png&width=200"
+      },
+      {
+        "name": "SSR Zenno Rob Roy (『ロードナイトと夢の石』)",
+        "url": "https://umamusu.wiki/Game:SSR_Zenno_Rob_Roy_(%E3%80%8E%E3%83%AD%E3%83%BC%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%81%A8%E5%A4%A2%E3%81%AE%E7%9F%B3%E3%80%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30104_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30104_Card.png&width=200"
+      },
+      {
+        "name": "SSR Manhattan Cafe (It's on the house.)",
+        "url": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(It%27s_on_the_house.)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30110_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30110_Card.png&width=200"
+      },
+      {
+        "name": "SSR Biwa Hayahide (ユークロニア・アーキテクト)",
+        "url": "https://umamusu.wiki/Game:SSR_Biwa_Hayahide_(%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30113_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30113_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Palmer (月下の悪魔ちゃん♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(%E6%9C%88%E4%B8%8B%E3%81%AE%E6%82%AA%E9%AD%94%E3%81%A1%E3%82%83%E3%82%93%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30115_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30115_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Kris S (A Win Foreshadowed)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(A_Win_Foreshadowed)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30118_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30118_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Laurel (ここからはDon't stop!)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Laurel_(%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E3%81%AFDon%27t_stop!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30125_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30125_Card.png&width=200"
+      },
+      {
+        "name": "SSR Special Week (ハネ退け魔を退け願い込め)",
+        "url": "https://umamusu.wiki/Game:SSR_Special_Week_(%E3%83%8F%E3%83%8D%E9%80%80%E3%81%91%E9%AD%94%E3%82%92%E9%80%80%E3%81%91%E9%A1%98%E3%81%84%E8%BE%BC%E3%82%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30127_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30127_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro McQueen (心、夜風にさらわれて)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E5%BF%83%E3%80%81%E5%A4%9C%E9%A2%A8%E3%81%AB%E3%81%95%E3%82%89%E3%82%8F%E3%82%8C%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30139_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30139_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Laurel (刻下、桜花爛漫)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Laurel_(%E5%88%BB%E4%B8%8B%E3%80%81%E6%A1%9C%E8%8A%B1%E7%88%9B%E6%BC%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30142_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30142_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vodka (ハート・イグニッション！！)",
+        "url": "https://umamusu.wiki/Game:SSR_Vodka_(%E3%83%8F%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%82%B0%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%81%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30150_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30150_Card.png&width=200"
+      },
+      {
+        "name": "SSR Admire Vega (Precious☆Moments)",
+        "url": "https://umamusu.wiki/Game:SSR_Admire_Vega_(Precious%E2%98%86Moments)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30162_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30162_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tanino Gimlet (フォルトゥーナの喝采)",
+        "url": "https://umamusu.wiki/Game:SSR_Tanino_Gimlet_(%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%A5%E3%83%BC%E3%83%8A%E3%81%AE%E5%96%9D%E9%87%87)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30165_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30165_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sounds of Earth (大地と我らのアンサンブル)",
+        "url": "https://umamusu.wiki/Game:SSR_Sounds_of_Earth_(%E5%A4%A7%E5%9C%B0%E3%81%A8%E6%88%91%E3%82%89%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30173_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30173_Card.png&width=200"
+      },
+      {
+        "name": "SSR Twin Turbo (ウタエミンナノ)",
+        "url": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(%E3%82%A6%E3%82%BF%E3%82%A8%E3%83%9F%E3%83%B3%E3%83%8A%E3%83%8E)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30181_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30181_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hokko Tarumae (白い翼は舞い戻りて)",
+        "url": "https://umamusu.wiki/Game:SSR_Hokko_Tarumae_(%E7%99%BD%E3%81%84%E7%BF%BC%E3%81%AF%E8%88%9E%E3%81%84%E6%88%BB%E3%82%8A%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30182_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30182_Card.png&width=200"
+      },
+      {
+        "name": "SSR Duramente (激情のピッツィカ)",
+        "url": "https://umamusu.wiki/Game:SSR_Duramente_(%E6%BF%80%E6%83%85%E3%81%AE%E3%83%94%E3%83%83%E3%83%84%E3%82%A3%E3%82%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30190_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30190_Card.png&width=200"
+      },
+      {
+        "name": "SSR Cheval Grand (Over the Ocean)",
+        "url": "https://umamusu.wiki/Game:SSR_Cheval_Grand_(Over_the_Ocean)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30193_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30193_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hishi Miracle (わーく・あ・みらくる！)",
+        "url": "https://umamusu.wiki/Game:SSR_Hishi_Miracle_(%E3%82%8F%E3%83%BC%E3%81%8F%E3%83%BB%E3%81%82%E3%83%BB%E3%81%BF%E3%82%89%E3%81%8F%E3%82%8B%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30199_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30199_Card.png&width=200"
+      },
+      {
+        "name": "SSR Dantsu Flame (そして幕は上がる)",
+        "url": "https://umamusu.wiki/Game:SSR_Dantsu_Flame_(%E3%81%9D%E3%81%97%E3%81%A6%E5%B9%95%E3%81%AF%E4%B8%8A%E3%81%8C%E3%82%8B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30209_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30209_Card.png&width=200"
+      },
+      {
+        "name": "SSR Wonder Acute (あの夏のキリトリ線)",
+        "url": "https://umamusu.wiki/Game:SSR_Wonder_Acute_(%E3%81%82%E3%81%AE%E5%A4%8F%E3%81%AE%E3%82%AD%E3%83%AA%E3%83%88%E3%83%AA%E7%B7%9A)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30212_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30212_Card.png&width=200"
+      },
+      {
+        "name": "SSR Satono Diamond (今日もたのしく、おいしく。)",
+        "url": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(%E4%BB%8A%E6%97%A5%E3%82%82%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E3%80%81%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F%E3%80%82)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30221_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30221_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Shakur (Cocoon)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Shakur_(Cocoon)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30226_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30226_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nice Nature (これきり、特別ですよ？)",
+        "url": "https://umamusu.wiki/Game:SSR_Nice_Nature_(%E3%81%93%E3%82%8C%E3%81%8D%E3%82%8A%E3%80%81%E7%89%B9%E5%88%A5%E3%81%A7%E3%81%99%E3%82%88%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30239_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30239_Card.png&width=200"
+      },
+      {
+        "name": "SSR Jungle Pocket (『最強は俺だ！！』)",
+        "url": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E3%80%8E%E6%9C%80%E5%BC%B7%E3%81%AF%E4%BF%BA%E3%81%A0%EF%BC%81%EF%BC%81%E3%80%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30240_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30240_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Bright (春、来たれり)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Bright_(%E6%98%A5%E3%80%81%E6%9D%A5%E3%81%9F%E3%82%8C%E3%82%8A)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30244_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30244_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ryan (瞳に闘志を胸に勝利の渇望を)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(%E7%9E%B3%E3%81%AB%E9%97%98%E5%BF%97%E3%82%92%E8%83%B8%E3%81%AB%E5%8B%9D%E5%88%A9%E3%81%AE%E6%B8%87%E6%9C%9B%E3%82%92)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30258_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30258_Card.png&width=200"
+      },
+      {
+        "name": "SSR Duramente (Tranquillo)",
+        "url": "https://umamusu.wiki/Game:SSR_Duramente_(Tranquillo)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30262_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30262_Card.png&width=200"
+      }
+    ],
+    "Power": [
+      {
+        "name": "SSR Vodka (Wild Rider)",
+        "url": "https://umamusu.wiki/Game:SSR_Vodka_(Wild_Rider)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30005_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30005_Card.png&width=200"
+      },
+      {
+        "name": "SSR El Condor Pasa (Champion's Passion)",
+        "url": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(Champion%27s_Passion)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30007_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30007_Card.png&width=200"
+      },
+      {
+        "name": "SSR Smart Falcon (My Umadol Way! ☆)",
+        "url": "https://umamusu.wiki/Game:SSR_Smart_Falcon_(My_Umadol_Way!_%E2%98%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30017_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30017_Card.png&width=200"
+      },
+      {
+        "name": "SSR Oguri Cap (Get Lots of Hugs for Me)",
+        "url": "https://umamusu.wiki/Game:SSR_Oguri_Cap_(Get_Lots_of_Hugs_for_Me)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30024_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30024_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yaeno Muteki (Fiery Discipline)",
+        "url": "https://umamusu.wiki/Game:SSR_Yaeno_Muteki_(Fiery_Discipline)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30032_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30032_Card.png&width=200"
+      },
+      {
+        "name": "SSR Winning Ticket (Dreams Do Come True!)",
+        "url": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(Dreams_Do_Come_True!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30033_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30033_Card.png&width=200"
+      },
+      {
+        "name": "SSR Rice Shower (Happiness Just around the Bend)",
+        "url": "https://umamusu.wiki/Game:SSR_Rice_Shower_(Happiness_Just_around_the_Bend)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30034_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30034_Card.png&width=200"
+      },
+      {
+        "name": "SSR Bamboo Memory (Head-on Fight!)",
+        "url": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(Head-on_Fight!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30042_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30042_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daiwa Scarlet (Mini☆Vacation)",
+        "url": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Mini%E2%98%86Vacation)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30047_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30047_Card.png&width=200"
+      },
+      {
+        "name": "SSR King Halo (Tonight, We Waltz)",
+        "url": "https://umamusu.wiki/Game:SSR_King_Halo_(Tonight,_We_Waltz)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30056_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30056_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tokai Teio (Regal Racers)",
+        "url": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(Regal_Racers)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30058_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30058_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tamamo Cross (やったれハロウィンナイト！)",
+        "url": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(%E3%82%84%E3%81%A3%E3%81%9F%E3%82%8C%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%88%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30064_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30064_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daitaku Helios (おどれ・さわげ・フェスれ！)",
+        "url": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%E3%81%8A%E3%81%A9%E3%82%8C%E3%83%BB%E3%81%95%E3%82%8F%E3%81%92%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%82%8C%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30071_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30071_Card.png&width=200"
+      },
+      {
+        "name": "SSR Marvelous Sunday (スノウクリスタル・デイ)",
+        "url": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E3%82%B9%E3%83%8E%E3%82%A6%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%87%E3%82%A4)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30074_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30074_Card.png&width=200"
+      },
+      {
+        "name": "SSR Admire Vega (夜に暁、空に瑞星)",
+        "url": "https://umamusu.wiki/Game:SSR_Admire_Vega_(%E5%A4%9C%E3%81%AB%E6%9A%81%E3%80%81%E7%A9%BA%E3%81%AB%E7%91%9E%E6%98%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30077_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30077_Card.png&width=200"
+      },
+      {
+        "name": "SSR Agnes Digital (そこに“いる”幸せ)",
+        "url": "https://umamusu.wiki/Game:SSR_Agnes_Digital_(%E3%81%9D%E3%81%93%E3%81%AB%E2%80%9C%E3%81%84%E3%82%8B%E2%80%9D%E5%B9%B8%E3%81%9B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30085_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30085_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daiwa Scarlet (Outfit as No.1)",
+        "url": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Outfit_as_No.1)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30093_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30093_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kawakami Princess (フレフレ☆プリンセス！)",
+        "url": "https://umamusu.wiki/Game:SSR_Kawakami_Princess_(%E3%83%95%E3%83%AC%E3%83%95%E3%83%AC%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30096_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30096_Card.png&width=200"
+      },
+      {
+        "name": "SSR Haru Urara (うららか・ぱっしょん♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Haru_Urara_(%E3%81%86%E3%82%89%E3%82%89%E3%81%8B%E3%83%BB%E3%81%B1%E3%81%A3%E3%81%97%E3%82%87%E3%82%93%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30098_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30098_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Groove (理想へ向かう青嵐)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Groove_(%E7%90%86%E6%83%B3%E3%81%B8%E5%90%91%E3%81%8B%E3%81%86%E9%9D%92%E5%B5%90)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30106_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30106_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daiichi Ruby (嗚呼華麗ナル一族)",
+        "url": "https://umamusu.wiki/Game:SSR_Daiichi_Ruby_(%E5%97%9A%E5%91%BC%E8%8F%AF%E9%BA%97%E3%83%8A%E3%83%AB%E4%B8%80%E6%97%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30114_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30114_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Brian (GLAD TIDINGS)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Brian_(GLAD_TIDINGS)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30123_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30123_Card.png&width=200"
+      },
+      {
+        "name": "SSR Grass Wonder (遥か流るる冬夏青青)",
+        "url": "https://umamusu.wiki/Game:SSR_Grass_Wonder_(%E9%81%A5%E3%81%8B%E6%B5%81%E3%82%8B%E3%82%8B%E5%86%AC%E5%A4%8F%E9%9D%92%E9%9D%92)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30129_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30129_Card.png&width=200"
+      },
+      {
+        "name": "SSR Biko Pegasus (変身！ギャルソンフォーム！)",
+        "url": "https://umamusu.wiki/Game:SSR_Biko_Pegasus_(%E5%A4%89%E8%BA%AB%EF%BC%81%E3%82%AE%E3%83%A3%E3%83%AB%E3%82%BD%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30132_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30132_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nice Nature (今は瞳を閉じないで)",
+        "url": "https://umamusu.wiki/Game:SSR_Nice_Nature_(%E4%BB%8A%E3%81%AF%E7%9E%B3%E3%82%92%E9%96%89%E3%81%98%E3%81%AA%E3%81%84%E3%81%A7)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30138_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30138_Card.png&width=200"
+      },
+      {
+        "name": "SSR Ikuno Dictus (たどり着いた景色)",
+        "url": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E3%81%9F%E3%81%A9%E3%82%8A%E7%9D%80%E3%81%84%E3%81%9F%E6%99%AF%E8%89%B2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30143_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30143_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tanino Gimlet (Welcome to Umayuru)",
+        "url": "https://umamusu.wiki/Game:SSR_Tanino_Gimlet_(Welcome_to_Umayuru)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30145_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30145_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mayano Top Gun (Chill chill night*)",
+        "url": "https://umamusu.wiki/Game:SSR_Mayano_Top_Gun_(Chill_chill_night*)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30151_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30151_Card.png&width=200"
+      },
+      {
+        "name": "SSR Wonder Acute (ライフロング・ワンダー)",
+        "url": "https://umamusu.wiki/Game:SSR_Wonder_Acute_(%E3%83%A9%E3%82%A4%E3%83%95%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30156_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30156_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hishi Amazon (炎々、闘志を抱き)",
+        "url": "https://umamusu.wiki/Game:SSR_Hishi_Amazon_(%E7%82%8E%E3%80%85%E3%80%81%E9%97%98%E5%BF%97%E3%82%92%E6%8A%B1%E3%81%8D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30164_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30164_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tsurumaru Tsuyoshi (天より遣われし微笑み)",
+        "url": "https://umamusu.wiki/Game:SSR_Tsurumaru_Tsuyoshi_(%E5%A4%A9%E3%82%88%E3%82%8A%E9%81%A3%E3%82%8F%E3%82%8C%E3%81%97%E5%BE%AE%E7%AC%91%E3%81%BF)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30169_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30169_Card.png&width=200"
+      },
+      {
+        "name": "SSR Haru Urara (ああ、楽しや、楽しや！)",
+        "url": "https://umamusu.wiki/Game:SSR_Haru_Urara_(%E3%81%82%E3%81%82%E3%80%81%E6%A5%BD%E3%81%97%E3%82%84%E3%80%81%E6%A5%BD%E3%81%97%E3%82%84%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30171_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30171_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ramonu (冬溶かす熾火)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ramonu_(%E5%86%AC%E6%BA%B6%E3%81%8B%E3%81%99%E7%86%BE%E7%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30175_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30175_Card.png&width=200"
+      },
+      {
+        "name": "SSR Winning Ticket (小さな笑顔、2つ)",
+        "url": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(%E5%B0%8F%E3%81%95%E3%81%AA%E7%AC%91%E9%A1%94%E3%80%812%E3%81%A4)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30183_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30183_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sounds of Earth (ブリッランテな旋律を君と)",
+        "url": "https://umamusu.wiki/Game:SSR_Sounds_of_Earth_(%E3%83%96%E3%83%AA%E3%83%83%E3%83%A9%E3%83%B3%E3%83%86%E3%81%AA%E6%97%8B%E5%BE%8B%E3%82%92%E5%90%9B%E3%81%A8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30191_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30191_Card.png&width=200"
+      },
+      {
+        "name": "SSR K.S.Miracle (白い鳥のアラベスク)",
+        "url": "https://umamusu.wiki/Game:SSR_K.S.Miracle_(%E7%99%BD%E3%81%84%E9%B3%A5%E3%81%AE%E3%82%A2%E3%83%A9%E3%83%99%E3%82%B9%E3%82%AF)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30195_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30195_Card.png&width=200"
+      },
+      {
+        "name": "SSR Bamboo Memory (Burning!!)",
+        "url": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(Burning!!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30197_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30197_Card.png&width=200"
+      },
+      {
+        "name": "SSR Jungle Pocket (新時代を開く者)",
+        "url": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E6%96%B0%E6%99%82%E4%BB%A3%E3%82%92%E9%96%8B%E3%81%8F%E8%80%85)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30203_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30203_Card.png&width=200"
+      },
+      {
+        "name": "SSR Seiun Sky (幸福の匂いにまどろむ)",
+        "url": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(%E5%B9%B8%E7%A6%8F%E3%81%AE%E5%8C%82%E3%81%84%E3%81%AB%E3%81%BE%E3%81%A9%E3%82%8D%E3%82%80)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30204_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30204_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nishino Flower (朝焼け苺の畑にて)",
+        "url": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(%E6%9C%9D%E7%84%BC%E3%81%91%E8%8B%BA%E3%81%AE%E7%95%91%E3%81%AB%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30208_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30208_Card.png&width=200"
+      },
+      {
+        "name": "SSR Espoir City (KNOCK 'EM DOWN!)",
+        "url": "https://umamusu.wiki/Game:SSR_Espoir_City_(KNOCK_%27EM_DOWN!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30222_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30222_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Kris S (COOL⇔CRAZY/Buddy)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(COOL%E2%87%94CRAZY/Buddy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30228_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30228_Card.png&width=200"
+      },
+      {
+        "name": "SSR T.M. Opera O (王を統べて覇す者)",
+        "url": "https://umamusu.wiki/Game:SSR_T.M._Opera_O_(%E7%8E%8B%E3%82%92%E7%B5%B1%E3%81%B9%E3%81%A6%E8%A6%87%E3%81%99%E8%80%85)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30231_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30231_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ardan (深窓の少女へ)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ardan_(%E6%B7%B1%E7%AA%93%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%B8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30234_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30234_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gran Alegria (NEW TALES AWAIT)",
+        "url": "https://umamusu.wiki/Game:SSR_Gran_Alegria_(NEW_TALES_AWAIT)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30243_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30243_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vodka (Ballroom Tempest)",
+        "url": "https://umamusu.wiki/Game:SSR_Vodka_(Ballroom_Tempest)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30245_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30245_Card.png&width=200"
+      },
+      {
+        "name": "SSR Buena Vista (Luz de ensueño)",
+        "url": "https://umamusu.wiki/Game:SSR_Buena_Vista_(Luz_de_ensue%C3%B1o)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30250_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30250_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tamamo Cross (白き稲妻の如く)",
+        "url": "https://umamusu.wiki/Game:SSR_Tamamo_Cross_(%E7%99%BD%E3%81%8D%E7%A8%B2%E5%A6%BB%E3%81%AE%E5%A6%82%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30256_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30256_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vivlos (極上スマイルはっし～ん♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Vivlos_(%E6%A5%B5%E4%B8%8A%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB%E3%81%AF%E3%81%A3%E3%81%97%EF%BD%9E%E3%82%93%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30263_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30263_Card.png&width=200"
+      }
+    ],
+    "Guts": [
+      {
+        "name": "SSR Special Week (The Brightest Star in Japan!)",
+        "url": "https://umamusu.wiki/Game:SSR_Special_Week_(The_Brightest_Star_in_Japan!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30001_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30001_Card.png&width=200"
+      },
+      {
+        "name": "SSR Grass Wonder (Fairest Fleur)",
+        "url": "https://umamusu.wiki/Game:SSR_Grass_Wonder_(Fairest_Fleur)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30006_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30006_Card.png&width=200"
+      },
+      {
+        "name": "SSR Ines Fujin (Watch My Star Fly!)",
+        "url": "https://umamusu.wiki/Game:SSR_Ines_Fujin_(Watch_My_Star_Fly!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30011_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30011_Card.png&width=200"
+      },
+      {
+        "name": "SSR Winning Ticket (BNWinner!)",
+        "url": "https://umamusu.wiki/Game:SSR_Winning_Ticket_(BNWinner!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30012_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30012_Card.png&width=200"
+      },
+      {
+        "name": "SSR Haru Urara (Urara's Day Off!)",
+        "url": "https://umamusu.wiki/Game:SSR_Haru_Urara_(Urara%27s_Day_Off!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30019_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30019_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Palmer (Go Ahead and Laugh)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Palmer_(Go_Ahead_and_Laugh)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30027_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30027_Card.png&width=200"
+      },
+      {
+        "name": "SSR Matikanetannhauser (Just Keep Going)",
+        "url": "https://umamusu.wiki/Game:SSR_Matikanetannhauser_(Just_Keep_Going)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30030_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30030_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Rudolf (絶対皇帝)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E7%B5%B6%E5%AF%BE%E7%9A%87%E5%B8%9D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30037_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30037_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hishi Akebono (Who Wants the First Bite?)",
+        "url": "https://umamusu.wiki/Game:SSR_Hishi_Akebono_(Who_Wants_the_First_Bite%3F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30040_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30040_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ryan (Winning Pitch)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(Winning_Pitch)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30048_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30048_Card.png&width=200"
+      },
+      {
+        "name": "SSR Twin Turbo (Constellation of Stars)",
+        "url": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(Constellation_of_Stars)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30060_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30060_Card.png&width=200"
+      },
+      {
+        "name": "SSR Ikuno Dictus (心と足元は温かく)",
+        "url": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E5%BF%83%E3%81%A8%E8%B6%B3%E5%85%83%E3%81%AF%E6%B8%A9%E3%81%8B%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30063_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30063_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yukino Bijin (宵照らす奉納舞)",
+        "url": "https://umamusu.wiki/Game:SSR_Yukino_Bijin_(%E5%AE%B5%E7%85%A7%E3%82%89%E3%81%99%E5%A5%89%E7%B4%8D%E8%88%9E)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30070_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30070_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Bakushin O (爆速！最速！花あらし！)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Bakushin_O_(%E7%88%86%E9%80%9F%EF%BC%81%E6%9C%80%E9%80%9F%EF%BC%81%E8%8A%B1%E3%81%82%E3%82%89%E3%81%97%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30083_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30083_Card.png&width=200"
+      },
+      {
+        "name": "SSR Marvelous Sunday (世界にもっと☆マーベラス)",
+        "url": "https://umamusu.wiki/Game:SSR_Marvelous_Sunday_(%E4%B8%96%E7%95%8C%E3%81%AB%E3%82%82%E3%81%A3%E3%81%A8%E2%98%86%E3%83%9E%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30089_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30089_Card.png&width=200"
+      },
+      {
+        "name": "SSR Bamboo Memory (届け、このオモイ！)",
+        "url": "https://umamusu.wiki/Game:SSR_Bamboo_Memory_(%E5%B1%8A%E3%81%91%E3%80%81%E3%81%93%E3%81%AE%E3%82%AA%E3%83%A2%E3%82%A4%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30094_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30094_Card.png&width=200"
+      },
+      {
+        "name": "SSR El Condor Pasa (キラキラカケル∞)",
+        "url": "https://umamusu.wiki/Game:SSR_El_Condor_Pasa_(%E3%82%AD%E3%83%A9%E3%82%AD%E3%83%A9%E3%82%AB%E3%82%B1%E3%83%AB%E2%88%9E)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30102_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30102_Card.png&width=200"
+      },
+      {
+        "name": "SSR Special Week (私たちと夢、掴みましょう！)",
+        "url": "https://umamusu.wiki/Game:SSR_Special_Week_(%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%A8%E5%A4%A2%E3%80%81%E6%8E%B4%E3%81%BF%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30105_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30105_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sakura Chiyono O (チョベリグ心あれば桜心)",
+        "url": "https://umamusu.wiki/Game:SSR_Sakura_Chiyono_O_(%E3%83%81%E3%83%A7%E3%83%99%E3%83%AA%E3%82%B0%E5%BF%83%E3%81%82%E3%82%8C%E3%81%B0%E6%A1%9C%E5%BF%83)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30109_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30109_Card.png&width=200"
+      },
+      {
+        "name": "SSR Twin Turbo (TT Ignition!)",
+        "url": "https://umamusu.wiki/Game:SSR_Twin_Turbo_(TT_Ignition!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30112_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30112_Card.png&width=200"
+      },
+      {
+        "name": "SSR Shinko Windy (とびだせ！恐怖の魔王軍)",
+        "url": "https://umamusu.wiki/Game:SSR_Shinko_Windy_(%E3%81%A8%E3%81%B3%E3%81%A0%E3%81%9B%EF%BC%81%E6%81%90%E6%80%96%E3%81%AE%E9%AD%94%E7%8E%8B%E8%BB%8D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30117_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30117_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yaeno Muteki (天まで焦がせ祈りの火)",
+        "url": "https://umamusu.wiki/Game:SSR_Yaeno_Muteki_(%E5%A4%A9%E3%81%BE%E3%81%A7%E7%84%A6%E3%81%8C%E3%81%9B%E7%A5%88%E3%82%8A%E3%81%AE%E7%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30120_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30120_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yamanin Zephyr (誰も知らない風へ)",
+        "url": "https://umamusu.wiki/Game:SSR_Yamanin_Zephyr_(%E8%AA%B0%E3%82%82%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E9%A2%A8%E3%81%B8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30126_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30126_Card.png&width=200"
+      },
+      {
+        "name": "SSR K.S.Miracle (To you)",
+        "url": "https://umamusu.wiki/Game:SSR_K.S.Miracle_(To_you)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30130_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30130_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Kris S (Unyielding resolve)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Unyielding_resolve)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30136_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30136_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daiwa Scarlet (Something Blue)",
+        "url": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(Something_Blue)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30148_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30148_Card.png&width=200"
+      },
+      {
+        "name": "SSR Gold City (優しい月)",
+        "url": "https://umamusu.wiki/Game:SSR_Gold_City_(%E5%84%AA%E3%81%97%E3%81%84%E6%9C%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30153_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30153_Card.png&width=200"
+      },
+      {
+        "name": "SSR Jungle Pocket (トばすぜホットサマー！)",
+        "url": "https://umamusu.wiki/Game:SSR_Jungle_Pocket_(%E3%83%88%E3%81%B0%E3%81%99%E3%81%9C%E3%83%9B%E3%83%83%E3%83%88%E3%82%B5%E3%83%9E%E3%83%BC%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30158_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30158_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tap Dance City (高らかにYO-HO!)",
+        "url": "https://umamusu.wiki/Game:SSR_Tap_Dance_City_(%E9%AB%98%E3%82%89%E3%81%8B%E3%81%ABYO-HO!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30166_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30166_Card.png&width=200"
+      },
+      {
+        "name": "SSR King Halo (我が舞、巡りて)",
+        "url": "https://umamusu.wiki/Game:SSR_King_Halo_(%E6%88%91%E3%81%8C%E8%88%9E%E3%80%81%E5%B7%A1%E3%82%8A%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30170_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30170_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ryan (選んで選んで、想いを込めて)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ryan_(%E9%81%B8%E3%82%93%E3%81%A7%E9%81%B8%E3%82%93%E3%81%A7%E3%80%81%E6%83%B3%E3%81%84%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30176_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30176_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vivlos (会心のウイニングスマイル)",
+        "url": "https://umamusu.wiki/Game:SSR_Vivlos_(%E4%BC%9A%E5%BF%83%E3%81%AE%E3%82%A6%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30177_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30177_Card.png&width=200"
+      },
+      {
+        "name": "SSR Orfevre (只、君臨す。)",
+        "url": "https://umamusu.wiki/Game:SSR_Orfevre_(%E5%8F%AA%E3%80%81%E5%90%9B%E8%87%A8%E3%81%99%E3%80%82)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30187_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30187_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kitasan Black (2人のバウンス・シャッセ)",
+        "url": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(2%E4%BA%BA%E3%81%AE%E3%83%90%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%83%E3%82%BB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30189_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30189_Card.png&width=200"
+      },
+      {
+        "name": "SSR Rhein Kraft (ティアラが描くレイライン)",
+        "url": "https://umamusu.wiki/Game:SSR_Rhein_Kraft_(%E3%83%86%E3%82%A3%E3%82%A2%E3%83%A9%E3%81%8C%E6%8F%8F%E3%81%8F%E3%83%AC%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30194_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30194_Card.png&width=200"
+      },
+      {
+        "name": "SSR No Reason (大胆不敵の兵よ)",
+        "url": "https://umamusu.wiki/Game:SSR_No_Reason_(%E5%A4%A7%E8%83%86%E4%B8%8D%E6%95%B5%E3%81%AE%E5%85%B5%E3%82%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30200_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30200_Card.png&width=200"
+      },
+      {
+        "name": "SSR Vodka (明日のライド・オン)",
+        "url": "https://umamusu.wiki/Game:SSR_Vodka_(%E6%98%8E%E6%97%A5%E3%81%AE%E3%83%A9%E3%82%A4%E3%83%89%E3%83%BB%E3%82%AA%E3%83%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30202_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30202_Card.png&width=200"
+      },
+      {
+        "name": "SSR Fine Motion (歴史も美食も余すところなく)",
+        "url": "https://umamusu.wiki/Game:SSR_Fine_Motion_(%E6%AD%B4%E5%8F%B2%E3%82%82%E7%BE%8E%E9%A3%9F%E3%82%82%E4%BD%99%E3%81%99%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AA%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30214_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30214_Card.png&width=200"
+      },
+      {
+        "name": "SSR Buena Vista (我が学び舎へ、愛をこめて)",
+        "url": "https://umamusu.wiki/Game:SSR_Buena_Vista_(%E6%88%91%E3%81%8C%E5%AD%A6%E3%81%B3%E8%88%8E%E3%81%B8%E3%80%81%E6%84%9B%E3%82%92%E3%81%93%E3%82%81%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30216_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30216_Card.png&width=200"
+      },
+      {
+        "name": "SSR Fuji Kiseki (悩み事かい？ポニーちゃん)",
+        "url": "https://umamusu.wiki/Game:SSR_Fuji_Kiseki_(%E6%82%A9%E3%81%BF%E4%BA%8B%E3%81%8B%E3%81%84%EF%BC%9F%E3%83%9D%E3%83%8B%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30219_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30219_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hishi Amazon (牙を立て、リフレイン)",
+        "url": "https://umamusu.wiki/Game:SSR_Hishi_Amazon_(%E7%89%99%E3%82%92%E7%AB%8B%E3%81%A6%E3%80%81%E3%83%AA%E3%83%95%E3%83%AC%E3%82%A4%E3%83%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30223_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30223_Card.png&width=200"
+      },
+      {
+        "name": "SSR Matikanefukukitaru (メークパワートリオ)",
+        "url": "https://umamusu.wiki/Game:SSR_Matikanefukukitaru_(%E3%83%A1%E3%83%BC%E3%82%AF%E3%83%91%E3%83%AF%E3%83%BC%E3%83%88%E3%83%AA%E3%82%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30225_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30225_Card.png&width=200"
+      },
+      {
+        "name": "SSR Blast Onepiece (Blast Off!)",
+        "url": "https://umamusu.wiki/Game:SSR_Blast_Onepiece_(Blast_Off!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30232_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30232_Card.png&width=200"
+      },
+      {
+        "name": "SSR Curren Chan (Cutest in Ur ♡)",
+        "url": "https://umamusu.wiki/Game:SSR_Curren_Chan_(Cutest_in_Ur_%E2%99%A1)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30237_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30237_Card.png&width=200"
+      },
+      {
+        "name": "SSR Transcend (繋がれパレード・ノーツ♪)",
+        "url": "https://umamusu.wiki/Game:SSR_Transcend_(%E7%B9%8B%E3%81%8C%E3%82%8C%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%84%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30249_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30249_Card.png&width=200"
+      },
+      {
+        "name": "SSR Espoir City (約束のglitter)",
+        "url": "https://umamusu.wiki/Game:SSR_Espoir_City_(%E7%B4%84%E6%9D%9F%E3%81%AEglitter)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30251_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30251_Card.png&width=200"
+      },
+      {
+        "name": "SSR Silence Suzuka (My Beloved Scenery)",
+        "url": "https://umamusu.wiki/Game:SSR_Silence_Suzuka_(My_Beloved_Scenery)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30252_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30252_Card.png&width=200"
+      },
+      {
+        "name": "SSR Stay Gold (気まぐれ渡り星)",
+        "url": "https://umamusu.wiki/Game:SSR_Stay_Gold_(%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E6%B8%A1%E3%82%8A%E6%98%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30264_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30264_Card.png&width=200"
+      }
+    ],
+    "Wit": [
+      {
+        "name": "SSR Fine Motion (Wave of Gratitude)",
+        "url": "https://umamusu.wiki/Game:SSR_Fine_Motion_(Wave_of_Gratitude)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30010_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30010_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Shakur (7 More Centimeters)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Shakur_(7_More_Centimeters)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30013_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30013_Card.png&width=200"
+      },
+      {
+        "name": "SSR Yukino Bijin (Hometown Cheers)",
+        "url": "https://umamusu.wiki/Game:SSR_Yukino_Bijin_(Hometown_Cheers)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30031_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30031_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Dober (My Thoughts, My Desires)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Dober_(My_Thoughts,_My_Desires)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30041_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30041_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nice Nature (Daring to Dream)",
+        "url": "https://umamusu.wiki/Game:SSR_Nice_Nature_(Daring_to_Dream)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30054_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30054_Card.png&width=200"
+      },
+      {
+        "name": "SSR Seiun Sky (Paint the Sky Red)",
+        "url": "https://umamusu.wiki/Game:SSR_Seiun_Sky_(Paint_the_Sky_Red)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30055_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30055_Card.png&width=200"
+      },
+      {
+        "name": "SSR Biwa Hayahide (Our Resounding Steps)",
+        "url": "https://umamusu.wiki/Game:SSR_Biwa_Hayahide_(Our_Resounding_Steps)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30061_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30061_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mihono Bourbon (幽霊さんとハロウィンの魔法)",
+        "url": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(%E5%B9%BD%E9%9C%8A%E3%81%95%E3%82%93%E3%81%A8%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3%E3%81%AE%E9%AD%94%E6%B3%95)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30066_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30066_Card.png&width=200"
+      },
+      {
+        "name": "SSR Curren Chan (かなし君、うつくし君)",
+        "url": "https://umamusu.wiki/Game:SSR_Curren_Chan_(%E3%81%8B%E3%81%AA%E3%81%97%E5%90%9B%E3%80%81%E3%81%86%E3%81%A4%E3%81%8F%E3%81%97%E5%90%9B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30068_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30068_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Taishin (いじっぱりのマルクト)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Taishin_(%E3%81%84%E3%81%98%E3%81%A3%E3%81%B1%E3%82%8A%E3%81%AE%E3%83%9E%E3%83%AB%E3%82%AF%E3%83%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30073_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30073_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nishino Flower (小さなカップに想いをこめて)",
+        "url": "https://umamusu.wiki/Game:SSR_Nishino_Flower_(%E5%B0%8F%E3%81%95%E3%81%AA%E3%82%AB%E3%83%83%E3%83%97%E3%81%AB%E6%83%B3%E3%81%84%E3%82%92%E3%81%93%E3%82%81%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30082_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30082_Card.png&width=200"
+      },
+      {
+        "name": "SSR Satono Diamond (SPECIAL DREAMERS!!)",
+        "url": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(SPECIAL_DREAMERS!!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30088_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30088_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sirius Symboli (Escorte étoile)",
+        "url": "https://umamusu.wiki/Game:SSR_Sirius_Symboli_(Escorte_%C3%A9toile)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30091_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30091_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mr. C.B. (Dear Mr. C.B.)",
+        "url": "https://umamusu.wiki/Game:SSR_Mr._C.B._(Dear_Mr._C.B.)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30097_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30097_Card.png&width=200"
+      },
+      {
+        "name": "SSR Rice Shower (あこがれの景色)",
+        "url": "https://umamusu.wiki/Game:SSR_Rice_Shower_(%E3%81%82%E3%81%93%E3%81%8C%E3%82%8C%E3%81%AE%E6%99%AF%E8%89%B2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30100_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30100_Card.png&width=200"
+      },
+      {
+        "name": "SSR Matikanetannhauser (マチタン☆アドベンチャー)",
+        "url": "https://umamusu.wiki/Game:SSR_Matikanetannhauser_(%E3%83%9E%E3%83%81%E3%82%BF%E3%83%B3%E2%98%86%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30103_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30103_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nakayama Festa (一天地六に身を任せ)",
+        "url": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(%E4%B8%80%E5%A4%A9%E5%9C%B0%E5%85%AD%E3%81%AB%E8%BA%AB%E3%82%92%E4%BB%BB%E3%81%9B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30108_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30108_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tokai Teio (テイオー・オー・オー！！！)",
+        "url": "https://umamusu.wiki/Game:SSR_Tokai_Teio_(%E3%83%86%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%EF%BC%81%EF%BC%81%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30111_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30111_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Groove (Are you merry?)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Groove_(Are_you_merry%3F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30124_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30124_Card.png&width=200"
+      },
+      {
+        "name": "SSR Sweep Tosho (気まぐれ絶佳)",
+        "url": "https://umamusu.wiki/Game:SSR_Sweep_Tosho_(%E6%B0%97%E3%81%BE%E3%81%90%E3%82%8C%E7%B5%B6%E4%BD%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30128_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30128_Card.png&width=200"
+      },
+      {
+        "name": "SSR Hishi Akebono (フォンデンテで笑って)",
+        "url": "https://umamusu.wiki/Game:SSR_Hishi_Akebono_(%E3%83%95%E3%82%A9%E3%83%B3%E3%83%87%E3%83%B3%E3%83%86%E3%81%A7%E7%AC%91%E3%81%A3%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30133_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30133_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro Ramonu (燦爛)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_Ramonu_(%E7%87%A6%E7%88%9B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30134_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30134_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mihono Bourbon (ミッション『心の栄養補給』)",
+        "url": "https://umamusu.wiki/Game:SSR_Mihono_Bourbon_(%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%8E%E5%BF%83%E3%81%AE%E6%A0%84%E9%A4%8A%E8%A3%9C%E7%B5%A6%E3%80%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30141_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30141_Card.png&width=200"
+      },
+      {
+        "name": "SSR Oguri Cap (駆けよ、駆けよ、駆けよ！！)",
+        "url": "https://umamusu.wiki/Game:SSR_Oguri_Cap_(%E9%A7%86%E3%81%91%E3%82%88%E3%80%81%E9%A7%86%E3%81%91%E3%82%88%E3%80%81%E9%A7%86%E3%81%91%E3%82%88%EF%BC%81%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30146_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30146_Card.png&width=200"
+      },
+      {
+        "name": "SSR Aston Machan (オートクチュール・メモリー)",
+        "url": "https://umamusu.wiki/Game:SSR_Aston_Machan_(%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30149_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30149_Card.png&width=200"
+      },
+      {
+        "name": "SSR T.M. Opera O (All'alba vincerò!)",
+        "url": "https://umamusu.wiki/Game:SSR_T.M._Opera_O_(All%27alba_vincer%C3%B2!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30152_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30152_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daitaku Helios (＃夏 ＃新しい自分)",
+        "url": "https://umamusu.wiki/Game:SSR_Daitaku_Helios_(%EF%BC%83%E5%A4%8F_%EF%BC%83%E6%96%B0%E3%81%97%E3%81%84%E8%87%AA%E5%88%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30155_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30155_Card.png&width=200"
+      },
+      {
+        "name": "SSR Manhattan Cafe (君と見る泡沫)",
+        "url": "https://umamusu.wiki/Game:SSR_Manhattan_Cafe_(%E5%90%9B%E3%81%A8%E8%A6%8B%E3%82%8B%E6%B3%A1%E6%B2%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30157_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30157_Card.png&width=200"
+      },
+      {
+        "name": "SSR Nakayama Festa (鉄火場に咲く菫)",
+        "url": "https://umamusu.wiki/Game:SSR_Nakayama_Festa_(%E9%89%84%E7%81%AB%E5%A0%B4%E3%81%AB%E5%92%B2%E3%81%8F%E8%8F%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30163_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30163_Card.png&width=200"
+      },
+      {
+        "name": "SSR Mejiro McQueen (かっとばせー！ですわ！？)",
+        "url": "https://umamusu.wiki/Game:SSR_Mejiro_McQueen_(%E3%81%8B%E3%81%A3%E3%81%A8%E3%81%B0%E3%81%9B%E3%83%BC%EF%BC%81%E3%81%A7%E3%81%99%E3%82%8F%EF%BC%81%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30172_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30172_Card.png&width=200"
+      },
+      {
+        "name": "SSR Satono Diamond (百花の願いをこの胸に)",
+        "url": "https://umamusu.wiki/Game:SSR_Satono_Diamond_(%E7%99%BE%E8%8A%B1%E3%81%AE%E9%A1%98%E3%81%84%E3%82%92%E3%81%93%E3%81%AE%E8%83%B8%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30179_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30179_Card.png&width=200"
+      },
+      {
+        "name": "SSR North Flight (ゴー・ファッショニスタ！)",
+        "url": "https://umamusu.wiki/Game:SSR_North_Flight_(%E3%82%B4%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%B9%E3%82%BF%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30185_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30185_Card.png&width=200"
+      },
+      {
+        "name": "SSR Neo Universe (V.E.R.2285のあなたへ)",
+        "url": "https://umamusu.wiki/Game:SSR_Neo_Universe_(V.E.R.2285%E3%81%AE%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30198_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30198_Card.png&width=200"
+      },
+      {
+        "name": "SSR Narita Taishin (Take Them Down!)",
+        "url": "https://umamusu.wiki/Game:SSR_Narita_Taishin_(Take_Them_Down!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30201_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30201_Card.png&width=200"
+      },
+      {
+        "name": "SSR Copano Rickey (Lucky☆Summertime)",
+        "url": "https://umamusu.wiki/Game:SSR_Copano_Rickey_(Lucky%E2%98%86Summertime)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30211_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30211_Card.png&width=200"
+      },
+      {
+        "name": "SSR Cesario (慈恵のMother Sea)",
+        "url": "https://umamusu.wiki/Game:SSR_Cesario_(%E6%85%88%E6%81%B5%E3%81%AEMother_Sea)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30217_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30217_Card.png&width=200"
+      },
+      {
+        "name": "SSR Taiki Shuttle (月下のSunshine)",
+        "url": "https://umamusu.wiki/Game:SSR_Taiki_Shuttle_(%E6%9C%88%E4%B8%8B%E3%81%AESunshine)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30218_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30218_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Kris S (Rewarding Job)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Kris_S_(Rewarding_Job)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30220_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30220_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daiwa Scarlet (緋色の君へ風が吹く)",
+        "url": "https://umamusu.wiki/Game:SSR_Daiwa_Scarlet_(%E7%B7%8B%E8%89%B2%E3%81%AE%E5%90%9B%E3%81%B8%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30227_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30227_Card.png&width=200"
+      },
+      {
+        "name": "SSR Agnes Digital (【告知】新刊あります！)",
+        "url": "https://umamusu.wiki/Game:SSR_Agnes_Digital_(%E3%80%90%E5%91%8A%E7%9F%A5%E3%80%91%E6%96%B0%E5%88%8A%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30229_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30229_Card.png&width=200"
+      },
+      {
+        "name": "SSR Symboli Rudolf (雲煙飛動)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E9%9B%B2%E7%85%99%E9%A3%9B%E5%8B%95)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30233_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30233_Card.png&width=200"
+      },
+      {
+        "name": "SSR Ikuno Dictus (鉄の乙女も微笑んで)",
+        "url": "https://umamusu.wiki/Game:SSR_Ikuno_Dictus_(%E9%89%84%E3%81%AE%E4%B9%99%E5%A5%B3%E3%82%82%E5%BE%AE%E7%AC%91%E3%82%93%E3%81%A7)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30238_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30238_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daring Tact (無垢の白妙)",
+        "url": "https://umamusu.wiki/Game:SSR_Daring_Tact_(%E7%84%A1%E5%9E%A2%E3%81%AE%E7%99%BD%E5%A6%99)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30248_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30248_Card.png&width=200"
+      },
+      {
+        "name": "SSR Daring Heart (Blooming Buds)",
+        "url": "https://umamusu.wiki/Game:SSR_Daring_Heart_(Blooming_Buds)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30254_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30254_Card.png&width=200"
+      },
+      {
+        "name": "SSR Air Messiah (いつか深まる若草)",
+        "url": "https://umamusu.wiki/Game:SSR_Air_Messiah_(%E3%81%84%E3%81%A4%E3%81%8B%E6%B7%B1%E3%81%BE%E3%82%8B%E8%8B%A5%E8%8D%89)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30255_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30255_Card.png&width=200"
+      },
+      {
+        "name": "SSR Win Variation (水面のプリンシパル)",
+        "url": "https://umamusu.wiki/Game:SSR_Win_Variation_(%E6%B0%B4%E9%9D%A2%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%91%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30261_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30261_Card.png&width=200"
+      },
+      {
+        "name": "SSR Chrono Genesis (この先の未来で)",
+        "url": "https://umamusu.wiki/Game:SSR_Chrono_Genesis_(%E3%81%93%E3%81%AE%E5%85%88%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%A7)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30266_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30266_Card.png&width=200"
+      }
+    ],
+    "Pal": [
+      {
+        "name": "SSR Hayakawa Tazuna (Tracen Reception)",
+        "url": "https://umamusu.wiki/Game:SSR_Hayakawa_Tazuna_(Tracen_Reception)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30021_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30021_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kashimoto Riko (Planned Perfection)",
+        "url": "https://umamusu.wiki/Game:SSR_Kashimoto_Riko_(Planned_Perfection)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30036_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30036_Card.png&width=200"
+      },
+      {
+        "name": "SSR Light Hello (from the GROUND UP)",
+        "url": "https://umamusu.wiki/Game:SSR_Light_Hello_(from_the_GROUND_UP)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30052_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30052_Card.png&width=200"
+      },
+      {
+        "name": "SSR Anshinzawa Sasami (ブスッといっとく？)",
+        "url": "https://umamusu.wiki/Game:SSR_Anshinzawa_Sasami_(%E3%83%96%E3%82%B9%E3%83%83%E3%81%A8%E3%81%84%E3%81%A3%E3%81%A8%E3%81%8F%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30080_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30080_Card.png&width=200"
+      },
+      {
+        "name": "SSR Satake Mei (L'aubeは迫りて)",
+        "url": "https://umamusu.wiki/Game:SSR_Satake_Mei_(L%27aube%E3%81%AF%E8%BF%AB%E3%82%8A%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30160_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30160_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tsurugi Ryoka (共に描くキラメキ)",
+        "url": "https://umamusu.wiki/Game:SSR_Tsurugi_Ryoka_(%E5%85%B1%E3%81%AB%E6%8F%8F%E3%81%8F%E3%82%AD%E3%83%A9%E3%83%A1%E3%82%AD)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30188_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30188_Card.png&width=200"
+      },
+      {
+        "name": "SSR Director Akikawa (謹製ッ！特大夢にんじん！)",
+        "url": "https://umamusu.wiki/Game:SSR_Director_Akikawa_(%E8%AC%B9%E8%A3%BD%E3%83%83%EF%BC%81%E7%89%B9%E5%A4%A7%E5%A4%A2%E3%81%AB%E3%82%93%E3%81%98%E3%82%93%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30207_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30207_Card.png&width=200"
+      },
+      {
+        "name": "SSR Tucker Bryne (本能は吼えているか！？)",
+        "url": "https://umamusu.wiki/Game:SSR_Tucker_Bryne_(%E6%9C%AC%E8%83%BD%E3%81%AF%E5%90%BC%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%EF%BC%81%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30257_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30257_Card.png&width=200"
+      }
+    ],
+    "Group": [
+      {
+        "name": "SSR Symboli Rudolf (尊尚親愛)",
+        "url": "https://umamusu.wiki/Game:SSR_Symboli_Rudolf_(%E5%B0%8A%E5%B0%9A%E8%A6%AA%E6%84%9B)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30067_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30067_Card.png&width=200"
+      },
+      {
+        "name": "SSR Special Week (紡がれてゆく想い)",
+        "url": "https://umamusu.wiki/Game:SSR_Special_Week_(%E7%B4%A1%E3%81%8C%E3%82%8C%E3%81%A6%E3%82%86%E3%81%8F%E6%83%B3%E3%81%84)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30081_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30081_Card.png&width=200"
+      },
+      {
+        "name": "SSR Darley Arabian (永劫続く栄光へ)",
+        "url": "https://umamusu.wiki/Game:SSR_Darley_Arabian_(%E6%B0%B8%E5%8A%AB%E7%B6%9A%E3%81%8F%E6%A0%84%E5%85%89%E3%81%B8)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30137_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30137_Card.png&width=200"
+      },
+      {
+        "name": "SSR Kitasan Black (この先も！)",
+        "url": "https://umamusu.wiki/Game:SSR_Kitasan_Black_(%E3%81%93%E3%81%AE%E5%85%88%E3%82%82%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30180_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30180_Card.png&width=200"
+      },
+      {
+        "name": "SSR Speed Symboli (導きの光)",
+        "url": "https://umamusu.wiki/Game:SSR_Speed_Symboli_(%E5%B0%8E%E3%81%8D%E3%81%AE%E5%85%89)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30241_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_30241_Card.png&width=200"
+      }
+    ]
+  },
+  "SR_Supports": {
+    "Speed_2": [
+      {
+        "name": "SR Eishin Flash (5:00 a.m.—Right on Schedule)",
+        "url": "https://umamusu.wiki/Game:SR_Eishin_Flash_(5:00_a.m.%E2%80%94Right_on_Schedule)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20013_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20013_Card.png&width=200"
+      },
+      {
+        "name": "SR Narita Taishin (Poolside High Tides)",
+        "url": "https://umamusu.wiki/Game:SR_Narita_Taishin_(Poolside_High_Tides)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20014_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20014_Card.png&width=200"
+      },
+      {
+        "name": "SR King Halo (First-Rate Plan)",
+        "url": "https://umamusu.wiki/Game:SR_King_Halo_(First-Rate_Plan)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20020_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20020_Card.png&width=200"
+      },
+      {
+        "name": "SR Sweep Tosho (Lamplit Training of a Witch-to-Be)",
+        "url": "https://umamusu.wiki/Game:SR_Sweep_Tosho_(Lamplit_Training_of_a_Witch-to-Be)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20023_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20023_Card.png&width=200"
+      },
+      {
+        "name": "SR Shinko Windy (///WARNING GATE///)",
+        "url": "https://umamusu.wiki/Game:SR_Shinko_Windy_(///WARNING_GATE///)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20031_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20031_Card.png&width=200"
+      },
+      {
+        "name": "SR El Condor Pasa (泥まみれのコンパネーロ)",
+        "url": "https://umamusu.wiki/Game:SR_El_Condor_Pasa_(%E6%B3%A5%E3%81%BE%E3%81%BF%E3%82%8C%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%91%E3%83%8D%E3%83%BC%E3%83%AD)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20033_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20033_Card.png&width=200"
+      },
+      {
+        "name": "SR Vodka (うるさい監視役)",
+        "url": "https://umamusu.wiki/Game:SR_Vodka_(%E3%81%86%E3%82%8B%E3%81%95%E3%81%84%E7%9B%A3%E8%A6%96%E5%BD%B9)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20039_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20039_Card.png&width=200"
+      },
+      {
+        "name": "SR Curren Chan (ほっと♪きゅーとメモリー)",
+        "url": "https://umamusu.wiki/Game:SR_Curren_Chan_(%E3%81%BB%E3%81%A3%E3%81%A8%E2%99%AA%E3%81%8D%E3%82%85%E3%83%BC%E3%81%A8%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20044_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20044_Card.png&width=200"
+      },
+      {
+        "name": "SR Aston Machan (添付ファイル、温めますか？)",
+        "url": "https://umamusu.wiki/Game:SR_Aston_Machan_(%E6%B7%BB%E4%BB%98%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%80%81%E6%B8%A9%E3%82%81%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20055_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20055_Card.png&width=200"
+      },
+      {
+        "name": "SR Jungle Pocket (デッド・エンド【通せん坊】)",
+        "url": "https://umamusu.wiki/Game:SR_Jungle_Pocket_(%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%89%E3%80%90%E9%80%9A%E3%81%9B%E3%82%93%E5%9D%8A%E3%80%91)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20056_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20056_Card.png&width=200"
+      },
+      {
+        "name": "SR Silence Suzuka (夕立の向こうからのぞく)",
+        "url": "https://umamusu.wiki/Game:SR_Silence_Suzuka_(%E5%A4%95%E7%AB%8B%E3%81%AE%E5%90%91%E3%81%93%E3%81%86%E3%81%8B%E3%82%89%E3%81%AE%E3%81%9E%E3%81%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20063_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20063_Card.png&width=200"
+      },
+      {
+        "name": "SR Matikanetannhauser (あくもー退散！？)",
+        "url": "https://umamusu.wiki/Game:SR_Matikanetannhauser_(%E3%81%82%E3%81%8F%E3%82%82%E3%83%BC%E9%80%80%E6%95%A3%EF%BC%81%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20069_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20069_Card.png&width=200"
+      },
+      {
+        "name": "SR Tosen Jordan (Time flies)",
+        "url": "https://umamusu.wiki/Game:SR_Tosen_Jordan_(Time_flies)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20073_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20073_Card.png&width=200"
+      },
+      {
+        "name": "SR Matikanefukukitaru (お守りパワーで福徳円満！)",
+        "url": "https://umamusu.wiki/Game:SR_Matikanefukukitaru_(%E3%81%8A%E5%AE%88%E3%82%8A%E3%83%91%E3%83%AF%E3%83%BC%E3%81%A7%E7%A6%8F%E5%BE%B3%E5%86%86%E6%BA%80%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20078_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20078_Card.png&width=200"
+      },
+      {
+        "name": "SR Bubble Gum Fellow (先陣スプラッシュ！)",
+        "url": "https://umamusu.wiki/Game:SR_Bubble_Gum_Fellow_(%E5%85%88%E9%99%A3%E3%82%B9%E3%83%97%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20082_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20082_Card.png&width=200"
+      },
+      {
+        "name": "SR Rice Shower (『しあわせの青いバラ』)",
+        "url": "https://umamusu.wiki/Game:SR_Rice_Shower_(%E3%80%8E%E3%81%97%E3%81%82%E3%82%8F%E3%81%9B%E3%81%AE%E9%9D%92%E3%81%84%E3%83%90%E3%83%A9%E3%80%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20086_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20086_Card.png&width=200"
+      }
+    ],
+    "Stamina_2": [
+      {
+        "name": "SR Mayano Top Gun (Cute + Cute = ?)",
+        "url": "https://umamusu.wiki/Game:SR_Mayano_Top_Gun_(Cute_%2B_Cute_%3D_%3F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20007_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20007_Card.png&width=200"
+      },
+      {
+        "name": "SR Manhattan Cafe (My Solo Drawn to Raindrop Drums)",
+        "url": "https://umamusu.wiki/Game:SR_Manhattan_Cafe_(My_Solo_Drawn_to_Raindrop_Drums)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20008_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20008_Card.png&width=200"
+      },
+      {
+        "name": "SR Zenno Rob Roy (The Perfect Book for You)",
+        "url": "https://umamusu.wiki/Game:SR_Zenno_Rob_Roy_(The_Perfect_Book_for_You)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20028_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20028_Card.png&width=200"
+      },
+      {
+        "name": "SR Tosen Jordan (Turf as Nails)",
+        "url": "https://umamusu.wiki/Game:SR_Tosen_Jordan_(Turf_as_Nails)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20035_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20035_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Palmer (救いはあるよっ♪)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Palmer_(%E6%95%91%E3%81%84%E3%81%AF%E3%81%82%E3%82%8B%E3%82%88%E3%81%A3%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20036_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20036_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Ryan (鼓動が速まるクールダウン)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Ryan_(%E9%BC%93%E5%8B%95%E3%81%8C%E9%80%9F%E3%81%BE%E3%82%8B%E3%82%AF%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A6%E3%83%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20040_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20040_Card.png&width=200"
+      },
+      {
+        "name": "SR Tokai Teio (Step! Smile! Wink!)",
+        "url": "https://umamusu.wiki/Game:SR_Tokai_Teio_(Step!_Smile!_Wink!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20047_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20047_Card.png&width=200"
+      },
+      {
+        "name": "SR T.M. Opera O (偉大なるフォトグラフィーア)",
+        "url": "https://umamusu.wiki/Game:SR_T.M._Opera_O_(%E5%81%89%E5%A4%A7%E3%81%AA%E3%82%8B%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%BC%E3%82%A2)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20054_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20054_Card.png&width=200"
+      },
+      {
+        "name": "SR Symboli Rudolf (放課後、君が笑った)",
+        "url": "https://umamusu.wiki/Game:SR_Symboli_Rudolf_(%E6%94%BE%E8%AA%B2%E5%BE%8C%E3%80%81%E5%90%9B%E3%81%8C%E7%AC%91%E3%81%A3%E3%81%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20058_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20058_Card.png&width=200"
+      },
+      {
+        "name": "SR Gold Ship (ゴルシ印のスペシャリテ)",
+        "url": "https://umamusu.wiki/Game:SR_Gold_Ship_(%E3%82%B4%E3%83%AB%E3%82%B7%E5%8D%B0%E3%81%AE%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%83%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20061_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20061_Card.png&width=200"
+      },
+      {
+        "name": "SR Kitasan Black (お助け大将と小さな魔女)",
+        "url": "https://umamusu.wiki/Game:SR_Kitasan_Black_(%E3%81%8A%E5%8A%A9%E3%81%91%E5%A4%A7%E5%B0%86%E3%81%A8%E5%B0%8F%E3%81%95%E3%81%AA%E9%AD%94%E5%A5%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20066_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20066_Card.png&width=200"
+      },
+      {
+        "name": "SR Nice Nature (とびっきりの金メダル)",
+        "url": "https://umamusu.wiki/Game:SR_Nice_Nature_(%E3%81%A8%E3%81%B3%E3%81%A3%E3%81%8D%E3%82%8A%E3%81%AE%E9%87%91%E3%83%A1%E3%83%80%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20068_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20068_Card.png&width=200"
+      },
+      {
+        "name": "SR Yaeno Muteki (護るべきは無垢の瞳)",
+        "url": "https://umamusu.wiki/Game:SR_Yaeno_Muteki_(%E8%AD%B7%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%AF%E7%84%A1%E5%9E%A2%E3%81%AE%E7%9E%B3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20074_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20074_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Ramonu (月下麗人)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Ramonu_(%E6%9C%88%E4%B8%8B%E9%BA%97%E4%BA%BA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20083_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20083_Card.png&width=200"
+      },
+      {
+        "name": "SR Curren Bouquetd'or (一輪ずつ、喜びを束ねて)",
+        "url": "https://umamusu.wiki/Game:SR_Curren_Bouquetd%27or_(%E4%B8%80%E8%BC%AA%E3%81%9A%E3%81%A4%E3%80%81%E5%96%9C%E3%81%B3%E3%82%92%E6%9D%9F%E3%81%AD%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20088_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20088_Card.png&width=200"
+      }
+    ],
+    "Power_2": [
+      {
+        "name": "SR Hishi Amazon (Reach the Top!)",
+        "url": "https://umamusu.wiki/Game:SR_Hishi_Amazon_(Reach_the_Top!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20003_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20003_Card.png&width=200"
+      },
+      {
+        "name": "SR Agnes Digital (Digital's Recharge Station)",
+        "url": "https://umamusu.wiki/Game:SR_Agnes_Digital_(Digital%27s_Recharge_Station)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20005_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20005_Card.png&width=200"
+      },
+      {
+        "name": "SR Biwa Hayahide (Trial Initiation)",
+        "url": "https://umamusu.wiki/Game:SR_Biwa_Hayahide_(Trial_Initiation)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20006_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20006_Card.png&width=200"
+      },
+      {
+        "name": "SR Mihono Bourbon (Pal-Assisted Training)",
+        "url": "https://umamusu.wiki/Game:SR_Mihono_Bourbon_(Pal-Assisted_Training)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20009_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20009_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Ryan (On and Off the Court)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Ryan_(On_and_Off_the_Court)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20010_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20010_Card.png&width=200"
+      },
+      {
+        "name": "SR Daitaku Helios (Let's Get This Party Lit!)",
+        "url": "https://umamusu.wiki/Game:SR_Daitaku_Helios_(Let%27s_Get_This_Party_Lit!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20024_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20024_Card.png&width=200"
+      },
+      {
+        "name": "SR Nishino Flower (Lifting Your Spirits)",
+        "url": "https://umamusu.wiki/Game:SR_Nishino_Flower_(Lifting_Your_Spirits)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20027_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20027_Card.png&width=200"
+      },
+      {
+        "name": "SR Inari One (泥濘一笑、真っつぐに)",
+        "url": "https://umamusu.wiki/Game:SR_Inari_One_(%E6%B3%A5%E6%BF%98%E4%B8%80%E7%AC%91%E3%80%81%E7%9C%9F%E3%81%A3%E3%81%A4%E3%81%90%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20032_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20032_Card.png&width=200"
+      },
+      {
+        "name": "SR Fine Motion (GRMAラーメン♪)",
+        "url": "https://umamusu.wiki/Game:SR_Fine_Motion_(GRMA%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20037_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20037_Card.png&width=200"
+      },
+      {
+        "name": "SR Sakura Bakushin O (響け！模範的あいさつ！)",
+        "url": "https://umamusu.wiki/Game:SR_Sakura_Bakushin_O_(%E9%9F%BF%E3%81%91%EF%BC%81%E6%A8%A1%E7%AF%84%E7%9A%84%E3%81%82%E3%81%84%E3%81%95%E3%81%A4%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20042_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20042_Card.png&width=200"
+      },
+      {
+        "name": "SR Special Week (1日の終わりに)",
+        "url": "https://umamusu.wiki/Game:SR_Special_Week_(1%E6%97%A5%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20043_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20043_Card.png&width=200"
+      },
+      {
+        "name": "SR Narita Top Road (ストップ、委員長！)",
+        "url": "https://umamusu.wiki/Game:SR_Narita_Top_Road_(%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%80%81%E5%A7%94%E5%93%A1%E9%95%B7%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20053_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20053_Card.png&width=200"
+      },
+      {
+        "name": "SR Agnes Tachyon (嗚呼素晴らしき甘味哉)",
+        "url": "https://umamusu.wiki/Game:SR_Agnes_Tachyon_(%E5%97%9A%E5%91%BC%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E7%94%98%E5%91%B3%E5%93%89)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20059_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20059_Card.png&width=200"
+      },
+      {
+        "name": "SR Hishi Akebono (甘～い浮き輪を召し上がれ)",
+        "url": "https://umamusu.wiki/Game:SR_Hishi_Akebono_(%E7%94%98%EF%BD%9E%E3%81%84%E6%B5%AE%E3%81%8D%E8%BC%AA%E3%82%92%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8C)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20060_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20060_Card.png&width=200"
+      },
+      {
+        "name": "SR Grass Wonder (よい茶の飲み置き)",
+        "url": "https://umamusu.wiki/Game:SR_Grass_Wonder_(%E3%82%88%E3%81%84%E8%8C%B6%E3%81%AE%E9%A3%B2%E3%81%BF%E7%BD%AE%E3%81%8D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20065_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20065_Card.png&width=200"
+      },
+      {
+        "name": "SR Royce and Royce (『最強』は作れる！)",
+        "url": "https://umamusu.wiki/Game:SR_Royce_and_Royce_(%E3%80%8E%E6%9C%80%E5%BC%B7%E3%80%8F%E3%81%AF%E4%BD%9C%E3%82%8C%E3%82%8B%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20071_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20071_Card.png&width=200"
+      },
+      {
+        "name": "SR Air Shakur (道端フィードバック)",
+        "url": "https://umamusu.wiki/Game:SR_Air_Shakur_(%E9%81%93%E7%AB%AF%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20076_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20076_Card.png&width=200"
+      },
+      {
+        "name": "SR North Flight (お任せ！オートクチュール)",
+        "url": "https://umamusu.wiki/Game:SR_North_Flight_(%E3%81%8A%E4%BB%BB%E3%81%9B%EF%BC%81%E3%82%AA%E3%83%BC%E3%83%88%E3%82%AF%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20081_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20081_Card.png&width=200"
+      },
+      {
+        "name": "SR Daring Heart (Daring Music)",
+        "url": "https://umamusu.wiki/Game:SR_Daring_Heart_(Daring_Music)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20087_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20087_Card.png&width=200"
+      }
+    ],
+    "Guts_2": [
+      {
+        "name": "SR Air Groove (Nothing Escapes the Vice Prez)",
+        "url": "https://umamusu.wiki/Game:SR_Air_Groove_(Nothing_Escapes_the_Vice_Prez)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20004_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20004_Card.png&width=200"
+      },
+      {
+        "name": "SR Yukino Bijin (City Girl 101)",
+        "url": "https://umamusu.wiki/Game:SR_Yukino_Bijin_(City_Girl_101)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20011_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20011_Card.png&width=200"
+      },
+      {
+        "name": "SR Meisho Doto (Fighting for Fortune)",
+        "url": "https://umamusu.wiki/Game:SR_Meisho_Doto_(Fighting_for_Fortune)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20017_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20017_Card.png&width=200"
+      },
+      {
+        "name": "SR Nice Nature (It's Just Water)",
+        "url": "https://umamusu.wiki/Game:SR_Nice_Nature_(It%27s_Just_Water)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20019_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20019_Card.png&width=200"
+      },
+      {
+        "name": "SR Tamamo Cross (これがウチらのいか焼きや！)",
+        "url": "https://umamusu.wiki/Game:SR_Tamamo_Cross_(%E3%81%93%E3%82%8C%E3%81%8C%E3%82%A6%E3%83%81%E3%82%89%E3%81%AE%E3%81%84%E3%81%8B%E7%84%BC%E3%81%8D%E3%82%84%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20022_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20022_Card.png&width=200"
+      },
+      {
+        "name": "SR Seeking the Pearl (The World's My Oyster)",
+        "url": "https://umamusu.wiki/Game:SR_Seeking_the_Pearl_(The_World%27s_My_Oyster)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20029_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20029_Card.png&width=200"
+      },
+      {
+        "name": "SR Sirius Symboli (一等星は揺らがない)",
+        "url": "https://umamusu.wiki/Game:SR_Sirius_Symboli_(%E4%B8%80%E7%AD%89%E6%98%9F%E3%81%AF%E6%8F%BA%E3%82%89%E3%81%8C%E3%81%AA%E3%81%84)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20038_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20038_Card.png&width=200"
+      },
+      {
+        "name": "SR Admire Vega (一等星を目指して)",
+        "url": "https://umamusu.wiki/Game:SR_Admire_Vega_(%E4%B8%80%E7%AD%89%E6%98%9F%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20041_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20041_Card.png&width=200"
+      },
+      {
+        "name": "SR Smart Falcon (ギリギリ!?UMA♡DOL)",
+        "url": "https://umamusu.wiki/Game:SR_Smart_Falcon_(%E3%82%AE%E3%83%AA%E3%82%AE%E3%83%AA!%3FUMA%E2%99%A1DOL)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20045_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20045_Card.png&width=200"
+      },
+      {
+        "name": "SR Oguri Cap (好きなんだ、ご飯が)",
+        "url": "https://umamusu.wiki/Game:SR_Oguri_Cap_(%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%93%E3%81%A0%E3%80%81%E3%81%94%E9%A3%AF%E3%81%8C)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20048_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20048_Card.png&width=200"
+      },
+      {
+        "name": "SR K.S.Miracle (The 3rd MIRACLE)",
+        "url": "https://umamusu.wiki/Game:SR_K.S.Miracle_(The_3rd_MIRACLE)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20051_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20051_Card.png&width=200"
+      },
+      {
+        "name": "SR Tsurumaru Tsuyoshi (『フレフレ、ツヨシ！』)",
+        "url": "https://umamusu.wiki/Game:SR_Tsurumaru_Tsuyoshi_(%E3%80%8E%E3%83%95%E3%83%AC%E3%83%95%E3%83%AC%E3%80%81%E3%83%84%E3%83%A8%E3%82%B7%EF%BC%81%E3%80%8F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20052_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20052_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Dober (ふわり、さらり)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Dober_(%E3%81%B5%E3%82%8F%E3%82%8A%E3%80%81%E3%81%95%E3%82%89%E3%82%8A)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20057_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20057_Card.png&width=200"
+      },
+      {
+        "name": "SR Copano Rickey (ラッキーの神様は早起き)",
+        "url": "https://umamusu.wiki/Game:SR_Copano_Rickey_(%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%81%AE%E7%A5%9E%E6%A7%98%E3%81%AF%E6%97%A9%E8%B5%B7%E3%81%8D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20064_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20064_Card.png&width=200"
+      },
+      {
+        "name": "SR Verxina (長姉は大変？)",
+        "url": "https://umamusu.wiki/Game:SR_Verxina_(%E9%95%B7%E5%A7%89%E3%81%AF%E5%A4%A7%E5%A4%89%EF%BC%9F)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20070_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20070_Card.png&width=200"
+      },
+      {
+        "name": "SR Tap Dance City (Cheers!)",
+        "url": "https://umamusu.wiki/Game:SR_Tap_Dance_City_(Cheers!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20075_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20075_Card.png&width=200"
+      },
+      {
+        "name": "SR Marvelous Sunday (みんなにグッドマーベラス☆)",
+        "url": "https://umamusu.wiki/Game:SR_Marvelous_Sunday_(%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AB%E3%82%B0%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%83%99%E3%83%A9%E3%82%B9%E2%98%86)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20079_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20079_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro McQueen (メロンなささやき)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_McQueen_(%E3%83%A1%E3%83%AD%E3%83%B3%E3%81%AA%E3%81%95%E3%81%95%E3%82%84%E3%81%8D)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20085_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20085_Card.png&width=200"
+      },
+      {
+        "name": "SR Kawakami Princess (私たちのプリンセス流儀)",
+        "url": "https://umamusu.wiki/Game:SR_Kawakami_Princess_(%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E6%B5%81%E5%84%80)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20089_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20089_Card.png&width=200"
+      }
+    ],
+    "Wit_2": [
+      {
+        "name": "SR Fuji Kiseki (Well, Look Who's Home)",
+        "url": "https://umamusu.wiki/Game:SR_Fuji_Kiseki_(Well,_Look_Who%27s_Home)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20001_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20001_Card.png&width=200"
+      },
+      {
+        "name": "SR Daiwa Scarlet (Nothing Hard Work Can't Solve!)",
+        "url": "https://umamusu.wiki/Game:SR_Daiwa_Scarlet_(Nothing_Hard_Work_Can%27t_Solve!)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20002_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20002_Card.png&width=200"
+      },
+      {
+        "name": "SR Agnes Tachyon (Experimental Studies on Subject A)",
+        "url": "https://umamusu.wiki/Game:SR_Agnes_Tachyon_(Experimental_Studies_on_Subject_A)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20012_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20012_Card.png&width=200"
+      },
+      {
+        "name": "SR Marvelous Sunday (A Marvelous ☆ Plan)",
+        "url": "https://umamusu.wiki/Game:SR_Marvelous_Sunday_(A_Marvelous_%E2%98%86_Plan)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20015_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20015_Card.png&width=200"
+      },
+      {
+        "name": "SR Matikanefukukitaru (Fate's Forecast)",
+        "url": "https://umamusu.wiki/Game:SR_Matikanefukukitaru_(Fate%27s_Forecast)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20016_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20016_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Dober (Ignore the Stares)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Dober_(Ignore_the_Stares)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20018_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20018_Card.png&width=200"
+      },
+      {
+        "name": "SR Ikuno Dictus (Never Skip Warm-Ups)",
+        "url": "https://umamusu.wiki/Game:SR_Ikuno_Dictus_(Never_Skip_Warm-Ups)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20025_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20025_Card.png&width=200"
+      },
+      {
+        "name": "SR Nice Nature (Messing Around)",
+        "url": "https://umamusu.wiki/Game:SR_Nice_Nature_(Messing_Around)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20026_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20026_Card.png&width=200"
+      },
+      {
+        "name": "SR Ines Fujin (頑張るキミに！)",
+        "url": "https://umamusu.wiki/Game:SR_Ines_Fujin_(%E9%A0%91%E5%BC%B5%E3%82%8B%E3%82%AD%E3%83%9F%E3%81%AB%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20030_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20030_Card.png&width=200"
+      },
+      {
+        "name": "SR Mejiro Ardan (My Heart Will Go On)",
+        "url": "https://umamusu.wiki/Game:SR_Mejiro_Ardan_(My_Heart_Will_Go_On)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20034_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20034_Card.png&width=200"
+      },
+      {
+        "name": "SR Sweep Tosho (おてんば魔女、修行中。)",
+        "url": "https://umamusu.wiki/Game:SR_Sweep_Tosho_(%E3%81%8A%E3%81%A6%E3%82%93%E3%81%B0%E9%AD%94%E5%A5%B3%E3%80%81%E4%BF%AE%E8%A1%8C%E4%B8%AD%E3%80%82)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20046_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20046_Card.png&width=200"
+      },
+      {
+        "name": "SR Gold City (金色を目指して)",
+        "url": "https://umamusu.wiki/Game:SR_Gold_City_(%E9%87%91%E8%89%B2%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20049_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20049_Card.png&width=200"
+      },
+      {
+        "name": "SR Seiun Sky (ゆるっと、まにまに)",
+        "url": "https://umamusu.wiki/Game:SR_Seiun_Sky_(%E3%82%86%E3%82%8B%E3%81%A3%E3%81%A8%E3%80%81%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20050_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20050_Card.png&width=200"
+      },
+      {
+        "name": "SR Maruzensky (激マブ！ドライブ♪)",
+        "url": "https://umamusu.wiki/Game:SR_Maruzensky_(%E6%BF%80%E3%83%9E%E3%83%96%EF%BC%81%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E2%99%AA)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20062_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20062_Card.png&width=200"
+      },
+      {
+        "name": "SR Taiki Shuttle (あまえんぼNight)",
+        "url": "https://umamusu.wiki/Game:SR_Taiki_Shuttle_(%E3%81%82%E3%81%BE%E3%81%88%E3%82%93%E3%81%BCNight)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20067_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20067_Card.png&width=200"
+      },
+      {
+        "name": "SR Tanino Gimlet (ギャラルホルンを磨き上げよ)",
+        "url": "https://umamusu.wiki/Game:SR_Tanino_Gimlet_(%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AB%E3%83%9B%E3%83%AB%E3%83%B3%E3%82%92%E7%A3%A8%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%88)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20072_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20072_Card.png&width=200"
+      },
+      {
+        "name": "SR Dantsu Flame (ぬりぬりシェイプアップ！)",
+        "url": "https://umamusu.wiki/Game:SR_Dantsu_Flame_(%E3%81%AC%E3%82%8A%E3%81%AC%E3%82%8A%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%97%E3%82%A2%E3%83%83%E3%83%97%EF%BC%81)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20077_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20077_Card.png&width=200"
+      },
+      {
+        "name": "SR Sakura Laurel (君の花衣)",
+        "url": "https://umamusu.wiki/Game:SR_Sakura_Laurel_(%E5%90%9B%E3%81%AE%E8%8A%B1%E8%A1%A3)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20080_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20080_Card.png&width=200"
+      },
+      {
+        "name": "SR Lucky Lilac (喜びの咲く刻)",
+        "url": "https://umamusu.wiki/Game:SR_Lucky_Lilac_(%E5%96%9C%E3%81%B3%E3%81%AE%E5%92%B2%E3%81%8F%E5%88%BB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20084_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20084_Card.png&width=200"
+      }
+    ],
+    "Pal_2": [
+      {
+        "name": "SR Kiryuin Aoi (Trainers' Teamwork)",
+        "url": "https://umamusu.wiki/Game:SR_Kiryuin_Aoi_(Trainers%27_Teamwork)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20021_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20021_Card.png&width=200"
+      }
+    ]
+  },
+  "R_Supports": {
+    "Speed_3": [
+      {
+        "name": "R Silence Suzuka (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Silence_Suzuka_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10002_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10002_Card.png&width=200"
+      },
+      {
+        "name": "R Tokai Teio (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tokai_Teio_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10003_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10003_Card.png&width=200"
+      },
+      {
+        "name": "R Maruzensky (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Maruzensky_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10004_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10004_Card.png&width=200"
+      },
+      {
+        "name": "R Taiki Shuttle (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Taiki_Shuttle_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10008_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10008_Card.png&width=200"
+      },
+      {
+        "name": "R Gold City (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Gold_City_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10017_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10017_Card.png&width=200"
+      },
+      {
+        "name": "R Sakura Bakushin O (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sakura_Bakushin_O_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10018_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10018_Card.png&width=200"
+      },
+      {
+        "name": "R Eishin Flash (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Eishin_Flash_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10038_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10038_Card.png&width=200"
+      },
+      {
+        "name": "R Narita Taishin (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Narita_Taishin_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10040_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10040_Card.png&width=200"
+      },
+      {
+        "name": "R Nishino Flower (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Nishino_Flower_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10041_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10041_Card.png&width=200"
+      },
+      {
+        "name": "R Biko Pegasus (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Biko_Pegasus_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10042_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10042_Card.png&width=200"
+      },
+      {
+        "name": "R King Halo (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_King_Halo_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10048_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10048_Card.png&width=200"
+      },
+      {
+        "name": "R Sweep Tosho (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sweep_Tosho_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10050_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10050_Card.png&width=200"
+      },
+      {
+        "name": "R Twin Turbo (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Twin_Turbo_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10051_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10051_Card.png&width=200"
+      },
+      {
+        "name": "R Kitasan Black (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Kitasan_Black_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10055_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10055_Card.png&width=200"
+      },
+      {
+        "name": "R Kawakami Princess (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Kawakami_Princess_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10063_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10063_Card.png&width=200"
+      },
+      {
+        "name": "R Shinko Windy (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Shinko_Windy_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10066_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10066_Card.png&width=200"
+      },
+      {
+        "name": "R Narita Brian (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Narita_Brian_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10072_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10072_Card.png&width=200"
+      },
+      {
+        "name": "R Narita Top Road (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Narita_Top_Road_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10077_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10077_Card.png&width=200"
+      },
+      {
+        "name": "R Aston Machan (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Aston_Machan_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10087_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10087_Card.png&width=200"
+      },
+      {
+        "name": "R Jungle Pocket (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Jungle_Pocket_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10089_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10089_Card.png&width=200"
+      },
+      {
+        "name": "R Katsuragi Ace (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Katsuragi_Ace_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10091_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10091_Card.png&width=200"
+      },
+      {
+        "name": "R Still in Love (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Still_in_Love_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10096_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10096_Card.png&width=200"
+      },
+      {
+        "name": "R Duramente (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Duramente_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10101_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10101_Card.png&width=200"
+      },
+      {
+        "name": "R Bubble Gum Fellow (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Bubble_Gum_Fellow_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10111_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10111_Card.png&width=200"
+      },
+      {
+        "name": "R Gentildonna (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Gentildonna_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10113_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10113_Card.png&width=200"
+      },
+      {
+        "name": "R Dream Journey (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Dream_Journey_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10119_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10119_Card.png&width=200"
+      },
+      {
+        "name": "R Almond Eye (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Almond_Eye_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10122_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10122_Card.png&width=200"
+      },
+      {
+        "name": "R Fusaichi Pandora (トレセン学園)",
+        "url": "https://umamusu.wiki/Game:R_Fusaichi_Pandora_(%E3%83%88%E3%83%AC%E3%82%BB%E3%83%B3%E5%AD%A6%E5%9C%92)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10129_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10129_Card.png&width=200"
+      },
+      {
+        "name": "R Admire Groove (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Admire_Groove_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10133_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10133_Card.png&width=200"
+      }
+    ],
+    "Stamina_3": [
+      {
+        "name": "R Gold Ship (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Gold_Ship_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10006_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10006_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro McQueen (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_McQueen_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10010_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10010_Card.png&width=200"
+      },
+      {
+        "name": "R T.M. Opera O (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_T.M._Opera_O_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10012_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10012_Card.png&width=200"
+      },
+      {
+        "name": "R Seiun Sky (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Seiun_Sky_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10014_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10014_Card.png&width=200"
+      },
+      {
+        "name": "R Rice Shower (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Rice_Shower_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10015_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10015_Card.png&width=200"
+      },
+      {
+        "name": "R Super Creek (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Super_Creek_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10019_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10019_Card.png&width=200"
+      },
+      {
+        "name": "R Tamamo Cross (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tamamo_Cross_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10027_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10027_Card.png&width=200"
+      },
+      {
+        "name": "R Mayano Top Gun (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mayano_Top_Gun_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10030_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10030_Card.png&width=200"
+      },
+      {
+        "name": "R Manhattan Cafe (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Manhattan_Cafe_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10031_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10031_Card.png&width=200"
+      },
+      {
+        "name": "R Satono Diamond (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Satono_Diamond_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10056_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10056_Card.png&width=200"
+      },
+      {
+        "name": "R Zenno Rob Roy (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Zenno_Rob_Roy_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10059_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10059_Card.png&width=200"
+      },
+      {
+        "name": "R Sakura Chiyono O (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sakura_Chiyono_O_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10062_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10062_Card.png&width=200"
+      },
+      {
+        "name": "R Nakayama Festa (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Nakayama_Festa_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10067_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10067_Card.png&width=200"
+      },
+      {
+        "name": "R Tosen Jordan (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tosen_Jordan_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10070_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10070_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Bright (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Bright_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10076_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10076_Card.png&width=200"
+      },
+      {
+        "name": "R Symboli Kris S (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Symboli_Kris_S_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10082_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10082_Card.png&width=200"
+      },
+      {
+        "name": "R Sakura Laurel (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sakura_Laurel_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10085_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10085_Card.png&width=200"
+      },
+      {
+        "name": "R Hokko Tarumae (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Hokko_Tarumae_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10090_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10090_Card.png&width=200"
+      },
+      {
+        "name": "R Sounds of Earth (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sounds_of_Earth_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10098_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10098_Card.png&width=200"
+      },
+      {
+        "name": "R Cheval Grand (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Cheval_Grand_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10105_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10105_Card.png&width=200"
+      },
+      {
+        "name": "R Hishi Miracle (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Hishi_Miracle_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10107_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10107_Card.png&width=200"
+      },
+      {
+        "name": "R Curren Bouquetd'or (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Curren_Bouquetd%27or_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10126_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10126_Card.png&width=200"
+      }
+    ],
+    "Power_3": [
+      {
+        "name": "R Oguri Cap (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Oguri_Cap_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10005_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10005_Card.png&width=200"
+      },
+      {
+        "name": "R Vodka (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Vodka_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10007_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10007_Card.png&width=200"
+      },
+      {
+        "name": "R El Condor Pasa (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_El_Condor_Pasa_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10011_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10011_Card.png&width=200"
+      },
+      {
+        "name": "R Hishi Amazon (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Hishi_Amazon_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10024_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10024_Card.png&width=200"
+      },
+      {
+        "name": "R Agnes Digital (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Agnes_Digital_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10026_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10026_Card.png&width=200"
+      },
+      {
+        "name": "R Biwa Hayahide (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Biwa_Hayahide_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10029_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10029_Card.png&width=200"
+      },
+      {
+        "name": "R Mihono Bourbon (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mihono_Bourbon_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10032_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10032_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Ryan (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Ryan_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10033_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10033_Card.png&width=200"
+      },
+      {
+        "name": "R Smart Falcon (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Smart_Falcon_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10039_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10039_Card.png&width=200"
+      },
+      {
+        "name": "R Daitaku Helios (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Daitaku_Helios_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10052_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10052_Card.png&width=200"
+      },
+      {
+        "name": "R Yaeno Muteki (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Yaeno_Muteki_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10058_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10058_Card.png&width=200"
+      },
+      {
+        "name": "R Bamboo Memory (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Bamboo_Memory_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10065_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10065_Card.png&width=200"
+      },
+      {
+        "name": "R Inari One (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Inari_One_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10068_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10068_Card.png&width=200"
+      },
+      {
+        "name": "R Admire Vega (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Admire_Vega_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10075_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10075_Card.png&width=200"
+      },
+      {
+        "name": "R Daiichi Ruby (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Daiichi_Ruby_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10079_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10079_Card.png&width=200"
+      },
+      {
+        "name": "R Tanino Gimlet (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tanino_Gimlet_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10084_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10084_Card.png&width=200"
+      },
+      {
+        "name": "R Wonder Acute (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Wonder_Acute_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10093_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10093_Card.png&width=200"
+      },
+      {
+        "name": "R Royce and Royce (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Royce_and_Royce_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10100_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10100_Card.png&width=200"
+      },
+      {
+        "name": "R Espoir City (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Espoir_City_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10110_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10110_Card.png&width=200"
+      },
+      {
+        "name": "R Daring Heart (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Daring_Heart_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10121_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10121_Card.png&width=200"
+      },
+      {
+        "name": "R Gran Alegria (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Gran_Alegria_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10124_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10124_Card.png&width=200"
+      }
+    ],
+    "Guts_3": [
+      {
+        "name": "R Special Week (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Special_Week_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10001_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10001_Card.png&width=200"
+      },
+      {
+        "name": "R Grass Wonder (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Grass_Wonder_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10009_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10009_Card.png&width=200"
+      },
+      {
+        "name": "R Winning Ticket (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Winning_Ticket_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10016_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10016_Card.png&width=200"
+      },
+      {
+        "name": "R Haru Urara (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Haru_Urara_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10020_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10020_Card.png&width=200"
+      },
+      {
+        "name": "R Air Groove (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Air_Groove_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10025_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10025_Card.png&width=200"
+      },
+      {
+        "name": "R Yukino Bijin (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Yukino_Bijin_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10034_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10034_Card.png&width=200"
+      },
+      {
+        "name": "R Ines Fujin (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Ines_Fujin_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10035_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10035_Card.png&width=200"
+      },
+      {
+        "name": "R Meisho Doto (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Meisho_Doto_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10045_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10045_Card.png&width=200"
+      },
+      {
+        "name": "R Nice Nature (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Nice_Nature_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10047_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10047_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Palmer (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Palmer_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10054_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10054_Card.png&width=200"
+      },
+      {
+        "name": "R Matikanetannhauser (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Matikanetannhauser_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10057_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10057_Card.png&width=200"
+      },
+      {
+        "name": "R Seeking the Pearl (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Seeking_the_Pearl_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10061_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10061_Card.png&width=200"
+      },
+      {
+        "name": "R Hishi Akebono (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Hishi_Akebono_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10064_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10064_Card.png&width=200"
+      },
+      {
+        "name": "R Sirius Symboli (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Sirius_Symboli_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10071_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10071_Card.png&width=200"
+      },
+      {
+        "name": "R K.S.Miracle (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_K.S.Miracle_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10080_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10080_Card.png&width=200"
+      },
+      {
+        "name": "R Tsurumaru Tsuyoshi (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tsurumaru_Tsuyoshi_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10081_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10081_Card.png&width=200"
+      },
+      {
+        "name": "R Yamanin Zephyr (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Yamanin_Zephyr_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10086_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10086_Card.png&width=200"
+      },
+      {
+        "name": "R Copano Rickey (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Copano_Rickey_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10092_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10092_Card.png&width=200"
+      },
+      {
+        "name": "R Tap Dance City (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Tap_Dance_City_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10095_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10095_Card.png&width=200"
+      },
+      {
+        "name": "R Verxina (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Verxina_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10097_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10097_Card.png&width=200"
+      },
+      {
+        "name": "R Vivlos (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Vivlos_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10099_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10099_Card.png&width=200"
+      },
+      {
+        "name": "R Orfevre (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Orfevre_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10103_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10103_Card.png&width=200"
+      },
+      {
+        "name": "R Rhein Kraft (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Rhein_Kraft_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10114_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10114_Card.png&width=200"
+      },
+      {
+        "name": "R Blast Onepiece (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Blast_Onepiece_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10116_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10116_Card.png&width=200"
+      },
+      {
+        "name": "R No Reason (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_No_Reason_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10117_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10117_Card.png&width=200"
+      },
+      {
+        "name": "R Buena Vista (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Buena_Vista_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10118_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10118_Card.png&width=200"
+      },
+      {
+        "name": "R Transcend (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Transcend_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10125_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10125_Card.png&width=200"
+      },
+      {
+        "name": "R Stay Gold (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Stay_Gold_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10132_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10132_Card.png&width=200"
+      }
+    ],
+    "Wit_3": [
+      {
+        "name": "R Symboli Rudolf (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Symboli_Rudolf_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10013_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10013_Card.png&width=200"
+      },
+      {
+        "name": "R Daiwa Scarlet (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Daiwa_Scarlet_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10023_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10023_Card.png&width=200"
+      },
+      {
+        "name": "R Fine Motion (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Fine_Motion_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10028_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10028_Card.png&width=200"
+      },
+      {
+        "name": "R Agnes Tachyon (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Agnes_Tachyon_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10036_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10036_Card.png&width=200"
+      },
+      {
+        "name": "R Air Shakur (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Air_Shakur_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10037_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10037_Card.png&width=200"
+      },
+      {
+        "name": "R Marvelous Sunday (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Marvelous_Sunday_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10043_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10043_Card.png&width=200"
+      },
+      {
+        "name": "R Matikanefukukitaru (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Matikanefukukitaru_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10044_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10044_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Dober (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Dober_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10046_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10046_Card.png&width=200"
+      },
+      {
+        "name": "R Fuji Kiseki (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Fuji_Kiseki_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10049_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10049_Card.png&width=200"
+      },
+      {
+        "name": "R Ikuno Dictus (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Ikuno_Dictus_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10053_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10053_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Ardan (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Ardan_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10069_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10069_Card.png&width=200"
+      },
+      {
+        "name": "R Curren Chan (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Curren_Chan_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10073_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10073_Card.png&width=200"
+      },
+      {
+        "name": "R Mr. C.B. (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mr._C.B._(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10078_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10078_Card.png&width=200"
+      },
+      {
+        "name": "R Mejiro Ramonu (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Mejiro_Ramonu_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10088_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10088_Card.png&width=200"
+      },
+      {
+        "name": "R North Flight (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_North_Flight_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10102_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10102_Card.png&width=200"
+      },
+      {
+        "name": "R Neo Universe (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Neo_Universe_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10106_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10106_Card.png&width=200"
+      },
+      {
+        "name": "R Dantsu Flame (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Dantsu_Flame_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10108_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10108_Card.png&width=200"
+      },
+      {
+        "name": "R Cesario (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Cesario_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10115_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10115_Card.png&width=200"
+      },
+      {
+        "name": "R Daring Tact (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Daring_Tact_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10120_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10120_Card.png&width=200"
+      },
+      {
+        "name": "R Lucky Lilac (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Lucky_Lilac_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10123_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10123_Card.png&width=200"
+      },
+      {
+        "name": "R Air Messiah (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Air_Messiah_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10127_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10127_Card.png&width=200"
+      },
+      {
+        "name": "R Win Variation (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Win_Variation_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10131_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10131_Card.png&width=200"
+      },
+      {
+        "name": "R Chrono Genesis (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Chrono_Genesis_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10134_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10134_Card.png&width=200"
+      }
+    ],
+    "Pal_3": [
+      {
+        "name": "R Hayakawa Tazuna (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Hayakawa_Tazuna_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10021_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10021_Card.png&width=200"
+      },
+      {
+        "name": "R Kiryuin Aoi (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Kiryuin_Aoi_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10022_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10022_Card.png&width=200"
+      },
+      {
+        "name": "R Kashimoto Riko (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Kashimoto_Riko_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10060_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10060_Card.png&width=200"
+      },
+      {
+        "name": "R Anshinzawa Sasami (笹針師)",
+        "url": "https://umamusu.wiki/Game:R_Anshinzawa_Sasami_(%E7%AC%B9%E9%87%9D%E5%B8%AB)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10074_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10074_Card.png&width=200"
+      },
+      {
+        "name": "R Light Hello (イベントプロデューサー)",
+        "url": "https://umamusu.wiki/Game:R_Light_Hello_(%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10083_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10083_Card.png&width=200"
+      },
+      {
+        "name": "R Satake Mei (URA職員)",
+        "url": "https://umamusu.wiki/Game:R_Satake_Mei_(URA%E8%81%B7%E5%93%A1)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10094_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10094_Card.png&width=200"
+      },
+      {
+        "name": "R Tsurugi Ryoka (プロデューサー)",
+        "url": "https://umamusu.wiki/Game:R_Tsurugi_Ryoka_(%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%BC)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10104_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10104_Card.png&width=200"
+      },
+      {
+        "name": "R Director Akikawa (Tracen Academy)",
+        "url": "https://umamusu.wiki/Game:R_Director_Akikawa_(Tracen_Academy)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10109_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10109_Card.png&width=200"
+      },
+      {
+        "name": "R Tucker Bryne (無人島PJ責任者)",
+        "url": "https://umamusu.wiki/Game:R_Tucker_Bryne_(%E7%84%A1%E4%BA%BA%E5%B3%B6PJ%E8%B2%AC%E4%BB%BB%E8%80%85)",
+        "image_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10128_Card.png&width=100",
+        "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10128_Card.png&width=200"
+      }
+    ]
+  }
+}
