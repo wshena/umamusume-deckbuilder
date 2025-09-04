@@ -1,7 +1,6 @@
-import MainContainer from '@/components/containers/MainContainer'
-import Navbar from '@/components/Navbar'
-import { Metadata } from 'next';
 import React from 'react'
+import { Metadata } from 'next';
+import MainContainer from '@/components/containers/MainContainer'
 
 interface Props {
   children: React.ReactNode
