@@ -13,6 +13,7 @@ import { TypedUseSelectorHook, useDispatch, useSelector } from "react-redux";
 
 // sliices
 import utilityReducer from './slices/utility';
+import navigationReducer from './slices/navigation';
 
 // const persistConfig = {
 //   key: 'root',
@@ -27,7 +28,7 @@ import utilityReducer from './slices/utility';
 export const store = configureStore({
   reducer: {
     utility: utilityReducer,
-    // anime: perisestedAnimeReducer,
+    progressBar: navigationReducer
     // filter: persistedFilterReducer,
     // alert: alertReducer,
     // watchlist: persistedWatchlistReducer,
