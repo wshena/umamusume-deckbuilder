@@ -46,6 +46,7 @@ func main() {
 	mux := http.NewServeMux()
 	mux.HandleFunc("GET /api/", cardHandler.LandingPage)
 	mux.HandleFunc("GET /api/support", cardHandler.GetSupportCards)
+	mux.HandleFunc("GET /api/support/{id}", cardHandler.GetSupportCardsById)
 
 	print("run in port :8080")
 	http.ListenAndServe(":8080", mux)

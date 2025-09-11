@@ -6,7 +6,8 @@ import (
 )
 
 type CardsServices interface {
-	GetSupportCards() []models.SupportsCardDetails
+	GetSupportCards() []models.Rarity
+	GetSupportCardsById(id int) models.SupportsCardDetails
 }
 
 type cardsServices struct {
@@ -17,6 +18,41 @@ func NewCardsServices(cardsRepository repositories.CardsRepository) CardsService
 	return &cardsServices{cardsRepository}
 }
 
-func (s *cardsServices) GetSupportCards() []models.SupportsCardDetails {
-	return s.cardsRepository.GetSupportCards()
+func (s *cardsServices) GetSupportCards() []models.Rarity {
+	var allCards []models.Rarity
+	//TODO: ganti ??
+	listRarity := []string{"SSR", "SR", "R"}
+	listType := []string{"Speed", "Stamina"}
+	cards := s.cardsRepository.GetSupportCards()
+	for _, rarity := range listRarity {
+		var cardRarity models.Rarity
+		cardRarity.Rarity = rarity
+		for _, types := range listType {
+			var cardType models.Type
+			cardType.Type = types
+			for _, card := range cards {
+				if card.Type == types && card.Rarity == rarity {
+					var cardDetails models.Cards
+					cardDetails.ID = card.ID
+					cardDetails.Name = card.Name
+					cardDetails.Img = card.Img
+					cardDetails.FullTitle = card.FullTitle
+					cardDetails.UniqueEffect1 = card.UniqueEffect1
+					cardDetails.UniqueEffect1Desc = card.UniqueEffect1Desc
+					cardDetails.UniqueEffect1Value = card.UniqueEffect1Value
+					cardDetails.UniqueEffect2 = card.UniqueEffect2
+					cardDetails.UniqueEffect2Desc = card.UniqueEffect2Desc
+					cardDetails.UniqueEffect2Value = card.UniqueEffect2Value
+					cardType.Cards = append(cardType.Cards, cardDetails)
+				}
+			}
+			cardRarity.Type = append(cardRarity.Type, cardType)
+		}
+		allCards = append(allCards, cardRarity)
+	}
+	return allCards
+}
+
+func (s *cardsServices) GetSupportCardsById(id int) models.SupportsCardDetails {
+	return s.cardsRepository.GetSupportCardsById(id)
 }
