@@ -1,3 +1,12 @@
+interface ButtonProps {
+  isTooltip: boolean,
+  handleClick?: () => void,
+  style?: string,
+  children: React.ReactNode,
+  tooltipContent?: React.ReactNode,
+  tooltipContentStyle?:string
+}
+
 interface DefaultContainerProps {
   children: React.ReactNode,
   style?: string
