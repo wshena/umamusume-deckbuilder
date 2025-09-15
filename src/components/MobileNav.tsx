@@ -8,12 +8,12 @@ import { useUtiltiyStore } from '@/lib/zustand/useUtilityStore'
 const MobileNav = () => {
   const [isServicesOpen, setIsServicesOpen] = useState(false);
   const {buttonClick, setButtonClick} = useUtiltiyStore();
-
+  console.log(buttonClick)
   return (
     <section id="mobile-nav" aria-label='mobile-nav' className={cn(
       'absolute block lg:hidden w-full h-screen bg-black text-white p-10 z-100',
       'left-0 top-[52px]',
-      'transition-all duration-300 ease-in-out',
+      'transition-transform duration-100 ease-in-out',
       (buttonClick.label === 'mobile-nav' && buttonClick.value === true) ? 'left-0' : 'translate-x-[1000px]'
     )}>
       <ul className="flex flex-col items-start gap-5">

@@ -1,9 +1,17 @@
-import React from 'react'
+'use client'
+import React, { useRef, useState } from 'react'
 import ContentContainer from './containers/ContentContainer'
 import { FooterNavigation, FooterParagraph } from '@/consts'
 import Link from 'next/link'
+import { cn } from '@/lib/utils'
+import Button from './buttons/Button'
 
 const Footer = () => {
+  const [showMore, setShowMore] = useState(false);
+  const contentRef = useRef<HTMLParagraphElement>(null)
+
+  const handleClick = () => setShowMore(!showMore)
+
   return (
     <footer className='py-10 text-white' style={{
       background: '#000 linear-gradient(180deg,#0000,#213944)'
@@ -44,10 +52,28 @@ const Footer = () => {
           </div>
 
           {/* brief description */}
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 md:gap-5">
-            {FooterParagraph?.map((item:{id:number, content:string}) => (
-              <p key={item.id} className="text-sm text-gray-100">{item.content}</p>
-            ))}
+          <div className={cn(
+            "w-full relative overflow-hidden transition-all duration-300 ease-in-out",
+            showMore ? "max-h-[1000px]" : "max-h-30"
+          )}>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 md:gap-5">
+              {FooterParagraph?.map((item:{id:number, content:string}) => (
+                <p key={item.id} className="text-sm text-gray-100">{item.content}</p>
+              ))}
+            </div>
+          </div>
+
+          {/* show more button */}
+          <div className="flex items-start w-fit">
+            <Button
+              isTooltip={false}
+              style='pb-1 border-b border-b-purple-500 transition-all duration-300 hover:opacity-80 active:scale-95 cursor-pointer'
+              handleClick={handleClick}
+            >
+              <span className="capitalize text-sm md:text-md text-purple-500">
+                {showMore ? 'show less' : 'show more'}
+              </span>
+            </Button>
           </div>
         </div>
       </ContentContainer>

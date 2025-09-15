@@ -33,7 +33,7 @@ const SupportCard = ({ data }: SupportCardProps) => {
   return (
     <Link
       href={`/support-cards/${id}`}
-      className="group w-[125px] max-w-[125px] flex flex-col items-start gap-3"
+      className="group md:w-[125px] max-w-[125px] flex flex-col items-start gap-3"
     >
       <Image
         src={imgSrc}
@@ -41,10 +41,10 @@ const SupportCard = ({ data }: SupportCardProps) => {
         width={125}
         height={150}
         loading="lazy"
-        className="w-[125px]"
+        className="w-[80px] md:w-[125px]"
         onError={handleImageError} // ini akan dipanggil kalau gagal load
       />
-      <span className="group-hover:text-orange-500 text-sm font-semibold truncate">
+      <span className="hidden md:inline-block group-hover:text-orange-500 text-sm font-semibold truncate">
         {truncateText(data.name, 15)}
       </span>
     </Link>

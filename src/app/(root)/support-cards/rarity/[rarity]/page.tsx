@@ -19,7 +19,7 @@ const page = async ({params}:{params:any}) => {
   const total:any = Object.values(card_data_by_rarity).reduce((acc, arr:any) => acc + arr.length, 0)
 
   return (
-    <main className="py-20">
+    <main className="py-10">
       <ContentContainer style='flex flex-col items-start gap-5'>
         {/* hedaer and breadcrumb */}
         <section id='header' className="space-y-1">

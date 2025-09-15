@@ -29,7 +29,7 @@ const CardList = ({data}:{data:any}) => {
               return (
                 <li key={item} className='space-y-4'>
                   <h1 className="border-b border-b-gray-400 py-2 text-xl font-semibold capitalize">{item}</h1>
-                  <ul className="grid grid-cols-2 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8 gap-3">
+                  <ul className="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8 gap-3">
                     {data[item].map((card:any) => (
                       <li key={card?.name} className='w-fit'>
                         <SupportCard data={card} />
@@ -44,9 +44,11 @@ const CardList = ({data}:{data:any}) => {
       ) : (
         <div className="flex items-center justify-center">
           {supportCards?.length === 0 ? (
-            <h1 className='text-lg md:text-xl'>No Support Cards in this type</h1>
+            <div className="w-full h-[200px] md:h-[300px] lg:h-[400px] flex items-center justify-center">
+              <h1 className='text-lg md:text-xl'>No Support Cards in this type</h1>
+            </div>
           ) : (
-            <ul className="grid grid-cols-2 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8 gap-3">
+            <ul className="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-7 xl:grid-cols-8 gap-3">
               {supportCards?.map((item:any) => {
                 return (
                   <li key={item?.name}>

@@ -8,7 +8,7 @@ const SupportCardTab = () => {
   const { setActiveTab, activeTab } = useUtiltiyStore();
   
   return (
-    <ul className='overflow-x-auto w-[250px] md:w-full flex items-center gap-3 pb-3 md:pb-0'>
+    <ul className='overflow-x-auto w-full flex items-center gap-3 pb-3 md:pb-0'>
       <li>
         <button key={'all'} onClick={() => setActiveTab('All')} className={cn(
           'cursor-pointer py-1 px-3 rounded-full',

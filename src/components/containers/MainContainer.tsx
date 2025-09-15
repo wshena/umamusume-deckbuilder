@@ -9,7 +9,7 @@ const MainContainer = ({children}: DefaultContainerProps) => {
   useNavigationProgress();
 
   return (
-    <div className="relative overflow-x-hidden">
+    <div className="relative overflow-hidden">
       {/* Progress Bar */}
       <ProgressBar />
         
