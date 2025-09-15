@@ -1,77 +1,52 @@
 'use client'
 import { createSlug, truncateText } from '@/lib/utils'
-import Image from 'next/image';
+import Image from 'next/image'
 import Link from 'next/link'
-import React, { useRef, useState } from 'react'
+import React, { useState } from 'react'
 
-const SupportCard = ({data}:{data:any}) => {
-  const id = createSlug(data.name);
+interface SupportCardProps {
+  data: {
+    name: string
+    image_hd_url: string
+  }
+}
 
-  const cardRef = useRef<any>(null);
-  const [bounds, setBounds] = useState<any>(null);
+const SupportCard = ({ data }: SupportCardProps) => {
+  const id = createSlug(data.name)
 
-  const handleMouseEnter = () => {
-    if (cardRef.current) {
-      setBounds(cardRef.current.getBoundingClientRect());
+  // state untuk handle reload image
+  const [imgSrc, setImgSrc] = useState(data.image_hd_url)
+  const [reloadCount, setReloadCount] = useState(0)
+
+  const handleImageError = () => {
+    if (reloadCount < 3) { // 3x retry
+      setReloadCount(reloadCount + 1)
+      // query param
+      setImgSrc(`${data.image_hd_url}?reload=${Date.now()}`)
+    } else {
+      console.warn(`Image gagal dimuat setelah ${reloadCount} percobaan: ${data.image_hd_url}`)
+      // bisa fallback ke placeholder
+      setImgSrc('https://placehold.co/125x150')
     }
-    document.addEventListener("mousemove", rotateToMouse);
-  };
-
-  const handleMouseLeave = () => {
-    document.removeEventListener("mousemove", rotateToMouse);
-    if (cardRef.current) {
-      cardRef.current.style.transform = "";
-      cardRef.current.querySelector(".glow").style.backgroundImage = "";
-    }
-  };
-
-  const rotateToMouse = (e:any) => {
-    if (!bounds) return;
-
-    const mouseX = e.clientX;
-    const mouseY = e.clientY;
-    const leftX = mouseX - bounds.x;
-    const topY = mouseY - bounds.y;
-    const center = {
-      x: leftX - bounds.width / 2,
-      y: topY - bounds.height / 2,
-    };
-    const distance = Math.sqrt(center.x ** 2 + center.y ** 2);
-
-    if (cardRef.current) {
-      cardRef.current.style.transform = `
-        scale3d(1.07, 1.07, 1.07)
-        rotate3d(
-          ${center.y / 100},
-          ${-center.x / 100},
-          0,
-          ${Math.log(distance) * 2}deg
-        )
-      `;
-
-      cardRef.current.querySelector(".glow").style.backgroundImage = `
-        radial-gradient(
-          circle at
-          ${center.x * 2 + bounds.width / 2}px
-          ${center.y * 2 + bounds.height / 2}px,
-          #ffffff55,
-          #0000000f
-        )
-      `;
-    }
-  };
+  }
 
   return (
-    <Link 
-      href={`/cards/support-cards/${id}`} 
-      ref={cardRef}
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
-      className='w-fit border flex flex-col items-start gap-3'
+    <Link
+      href={`/support-cards/${id}`}
+      className="group w-[125px] max-w-[125px] flex flex-col items-start gap-3"
     >
-      <div className="glow"></div>
-      <Image src={data.image_hd_url} alt={data.name} width={150} height={150} loading='lazy' />
-      <span className="text-sm font-semibold truncate">{truncateText(data.name, 20)}</span>
+      <Image
+        src={imgSrc}
+        alt={data.name}
+        width={125}
+        height={150}
+        loading="lazy"
+        className="w-[125px]"
+        onError={handleImageError} // ini akan dipanggil kalau gagal load
+      />
+      <span className="group-hover:text-orange-500 text-sm font-semibold truncate">
+        {truncateText(data.name, 15)}
+      </span>
     </Link>
   )
 }

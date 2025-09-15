@@ -1,18 +1,13 @@
 'use client'
-import { MenuIcon } from '@/icons'
-import { setButtonClick } from '@/lib/redux/slices/utility';
-import { RootState, useAppDispatch, useAppSelector } from '@/lib/redux/store';
 import React from 'react'
+import { MenuIcon } from '@/icons'
+import { useUtiltiyStore } from '@/lib/zustand/useUtilityStore';
 
 const MenuNavButton = () => {
-  const dispatch = useAppDispatch();
-  const buttonClick = useAppSelector((state:RootState) => state.utility.buttonClick);
+  const {buttonClick, setButtonClick} = useUtiltiyStore();
 
   const handleClick = () => {
-    dispatch(setButtonClick({
-      label: 'mobile-nav',
-      value: !buttonClick.value
-    }))
+    setButtonClick('mobile-nav', !buttonClick.value)
   }
 
   return (

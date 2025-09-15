@@ -1,5 +1,6 @@
 interface DefaultContainerProps {
-  children: React.ReactNode
+  children: React.ReactNode,
+  style?: string
 }
 
 interface IconProps {
@@ -28,4 +29,9 @@ interface LinkProps {
 interface FooterNavigationProps {
   label:string,
   links: LinkProps[]
+}
+
+interface BreadcrumbItemProps {
+  label: string,
+  url?: string
 }

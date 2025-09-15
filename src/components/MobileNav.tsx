@@ -1,13 +1,13 @@
 'use client'
-import { HEADER_NAV } from '@/consts'
-import { RootState, useAppSelector } from '@/lib/redux/store'
-import { cn } from '@/lib/utils'
 import Link from 'next/link'
+import { cn } from '@/lib/utils'
+import { HEADER_NAV } from '@/consts'
 import React, { useState } from 'react'
+import { useUtiltiyStore } from '@/lib/zustand/useUtilityStore'
 
 const MobileNav = () => {
   const [isServicesOpen, setIsServicesOpen] = useState(false);
-  const buttonClick = useAppSelector((state:RootState) => state.utility.buttonClick);
+  const {buttonClick, setButtonClick} = useUtiltiyStore();
 
   return (
     <section id="mobile-nav" aria-label='mobile-nav' className={cn(
@@ -53,7 +53,10 @@ const MobileNav = () => {
                   </div>
                 </div>
             ) : (
-              <Link href={item.link} className="hover:text-blue-600 transition-colors block w-full py-1"
+              <Link 
+                href={item.link} 
+                className="hover:text-blue-600 transition-colors block w-full py-1"
+                onClick={() => setButtonClick('', false)}
               >{item.label}</Link>
             )}
           </li>

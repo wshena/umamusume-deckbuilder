@@ -8,6 +8,10 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'umamusu.wiki',
       },
+      {
+        protocol: 'https',
+        hostname: 'placehold.co',
+      },
     ]
   }
 };

@@ -1,10 +1,10 @@
 'use client'
 import { useScrollLock } from '@/hooks/useScrollLock';
-import { RootState, useAppSelector } from '@/lib/redux/store';
+import { useUtiltiyStore } from '@/lib/zustand/useUtilityStore';
 
 const ScrollController = () => {
-  const buttonClick = useAppSelector((state: RootState) => state.utility.buttonClick.value);
-  useScrollLock(buttonClick);
+  const {buttonClick} = useUtiltiyStore();
+  useScrollLock(buttonClick.value);
   
   return null;
 };

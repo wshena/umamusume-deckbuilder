@@ -1582,7 +1582,7 @@
     ]
   },
   "SR_Supports": {
-    "Speed_2": [
+    "Speed": [
       {
         "name": "SR Eishin Flash (5:00 a.m.—Right on Schedule)",
         "url": "https://umamusu.wiki/Game:SR_Eishin_Flash_(5:00_a.m.%E2%80%94Right_on_Schedule)",
@@ -1680,7 +1680,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20086_Card.png&width=200"
       }
     ],
-    "Stamina_2": [
+    "Stamina": [
       {
         "name": "SR Mayano Top Gun (Cute + Cute = ?)",
         "url": "https://umamusu.wiki/Game:SR_Mayano_Top_Gun_(Cute_%2B_Cute_%3D_%3F)",
@@ -1772,7 +1772,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20088_Card.png&width=200"
       }
     ],
-    "Power_2": [
+    "Power": [
       {
         "name": "SR Hishi Amazon (Reach the Top!)",
         "url": "https://umamusu.wiki/Game:SR_Hishi_Amazon_(Reach_the_Top!)",
@@ -1888,7 +1888,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20087_Card.png&width=200"
       }
     ],
-    "Guts_2": [
+    "Guts": [
       {
         "name": "SR Air Groove (Nothing Escapes the Vice Prez)",
         "url": "https://umamusu.wiki/Game:SR_Air_Groove_(Nothing_Escapes_the_Vice_Prez)",
@@ -2004,7 +2004,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20089_Card.png&width=200"
       }
     ],
-    "Wit_2": [
+    "Wit": [
       {
         "name": "SR Fuji Kiseki (Well, Look Who's Home)",
         "url": "https://umamusu.wiki/Game:SR_Fuji_Kiseki_(Well,_Look_Who%27s_Home)",
@@ -2120,7 +2120,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_20084_Card.png&width=200"
       }
     ],
-    "Pal_2": [
+    "Pal": [
       {
         "name": "SR Kiryuin Aoi (Trainers' Teamwork)",
         "url": "https://umamusu.wiki/Game:SR_Kiryuin_Aoi_(Trainers%27_Teamwork)",
@@ -2130,7 +2130,7 @@
     ]
   },
   "R_Supports": {
-    "Speed_3": [
+    "Speed": [
       {
         "name": "R Silence Suzuka (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Silence_Suzuka_(Tracen_Academy)",
@@ -2306,7 +2306,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10133_Card.png&width=200"
       }
     ],
-    "Stamina_3": [
+    "Stamina": [
       {
         "name": "R Gold Ship (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Gold_Ship_(Tracen_Academy)",
@@ -2440,7 +2440,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10126_Card.png&width=200"
       }
     ],
-    "Power_3": [
+    "Power": [
       {
         "name": "R Oguri Cap (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Oguri_Cap_(Tracen_Academy)",
@@ -2568,7 +2568,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10124_Card.png&width=200"
       }
     ],
-    "Guts_3": [
+    "Guts": [
       {
         "name": "R Special Week (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Special_Week_(Tracen_Academy)",
@@ -2738,7 +2738,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10132_Card.png&width=200"
       }
     ],
-    "Wit_3": [
+    "Wit": [
       {
         "name": "R Symboli Rudolf (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Symboli_Rudolf_(Tracen_Academy)",
@@ -2878,7 +2878,7 @@
         "image_hd_url": "https://umamusu.wiki/w/thumb.php?f=Support_Card_10134_Card.png&width=200"
       }
     ],
-    "Pal_3": [
+    "Pal": [
       {
         "name": "R Hayakawa Tazuna (Tracen Academy)",
         "url": "https://umamusu.wiki/Game:R_Hayakawa_Tazuna_(Tracen_Academy)",
