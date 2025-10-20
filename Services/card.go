@@ -8,6 +8,7 @@ import (
 type CardsServices interface {
 	GetSupportCards() []models.Rarity
 	GetSupportCardsById(id int) models.SupportsCardDetails
+	GetSupportCardsByFilter(rarity string, types string, name string, skills int, effect int, order string) []models.SupportsCardDetails
 }
 
 type cardsServices struct {
@@ -20,9 +21,9 @@ func NewCardsServices(cardsRepository repositories.CardsRepository) CardsService
 
 func (s *cardsServices) GetSupportCards() []models.Rarity {
 	var allCards []models.Rarity
-	//TODO: ganti ??
+	//TODO: ganti ke dinamic ???
 	listRarity := []string{"SSR", "SR", "R"}
-	listType := []string{"Speed", "Stamina"}
+	listType := []string{"Speed", "Stamina", "Power"}
 	cards := s.cardsRepository.GetSupportCards()
 	for _, rarity := range listRarity {
 		var cardRarity models.Rarity
@@ -54,5 +55,15 @@ func (s *cardsServices) GetSupportCards() []models.Rarity {
 }
 
 func (s *cardsServices) GetSupportCardsById(id int) models.SupportsCardDetails {
-	return s.cardsRepository.GetSupportCardsById(id)
+	cards, effects, skills := s.cardsRepository.GetSupportCardsById(id)
+
+	var cardsDetails models.SupportsCardDetails = cards
+	cardsDetails.SupportsCardEffectDetail = effects
+	cardsDetails.CardsSkillsDetail = skills
+
+	return cardsDetails
+}
+
+func (s *cardsServices) GetSupportCardsByFilter(rarity string, types string, name string, skills int, effect int, order string) []models.SupportsCardDetails {
+	return s.cardsRepository.GetSupportCardsByFilter(rarity, types, name, skills, effect, order)
 }

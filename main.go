@@ -7,6 +7,7 @@ import (
 	"os"
 
 	handlers "uma/api/Handlers"
+	middleware "uma/api/Middleware"
 	models "uma/api/Models"
 	repositories "uma/api/Repositories"
 	services "uma/api/Services"
@@ -37,17 +38,37 @@ func ConnectDB() *gorm.DB {
 func main() {
 	db := ConnectDB()
 
-	db.AutoMigrate(&models.Effect{}, &models.SupportsCard{}, &models.SupportsCardEffect{}, &models.Skill{}, &models.CardsSkill{})
+	db.AutoMigrate(&models.Effect{}, &models.SupportsCard{}, &models.SupportsCardEffect{}, &models.Skill{}, &models.CardsSkill{}, &models.User{}, models.UsersCard{})
 
 	cardRepository := repositories.NewCardRepository(db)
 	cardServices := services.NewCardsServices(cardRepository)
 	cardHandler := handlers.NewCardsHandler(cardServices)
 
+	invRepository := repositories.NewInventoryRepository(db)
+	invService := services.NewInventoryService(invRepository)
+	invHandler := handlers.NewInventoryHandler(invService)
+
+	deckRespository := repositories.NewDeckRepository(db)
+	deckService := services.NewDeckServices(deckRespository)
+	deckHandler := handlers.NewDeckHandler(deckService)
+
+	userRepository := repositories.NewUserRepository(db)
+	userServices := services.NewUserServices(userRepository)
+	userHandler := handlers.NewUserHandler(userServices)
+
 	mux := http.NewServeMux()
-	mux.HandleFunc("GET /api/", cardHandler.LandingPage)
 	mux.HandleFunc("GET /api/support", cardHandler.GetSupportCards)
 	mux.HandleFunc("GET /api/support/{id}", cardHandler.GetSupportCardsById)
+	mux.HandleFunc("GET /api/inventory/{user_id}", invHandler.GetUserCard)
+	mux.HandleFunc("GET /api/decks/{user_id}", deckHandler.GetAllUserDeck)
+	mux.HandleFunc("GET /api/decks/{user_id}/{deck_number}", deckHandler.GetUserDeck)
 
-	print("run in port :8080")
+	mux.Handle("POST /api/inventory/{user_id}/{card_id}", middleware.AuthUser(http.HandlerFunc(invHandler.AddUserCard)))
+	mux.Handle("POST /api/decks/{user_id}/{deck_number}", middleware.AuthUser(http.HandlerFunc(deckHandler.AddUserDeck)))
+	mux.HandleFunc("POST /api/signin", userHandler.SignIn)
+	mux.HandleFunc("POST /api/login", userHandler.Login)
+	mux.Handle("POST /api/logout", middleware.AuthUser(http.HandlerFunc(userHandler.Logout)))
+
+	println("run in port :8080")
 	http.ListenAndServe(":8080", mux)
 }
