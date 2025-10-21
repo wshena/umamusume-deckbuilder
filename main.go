@@ -23,14 +23,14 @@ func ReadEnv() string {
 		log.Fatal("Error loading .env file")
 	}
 
-	return fmt.Sprintf("host=%s user=%s password=%s dbname=%s", os.Getenv("DB_Host"), os.Getenv("DB_User"), os.Getenv("DB_Password"), os.Getenv("DB_Name"))
+	return fmt.Sprintf("postgresql://postgres:%s@db.crtrdqqzjxjjvhmmqdug.supabase.co:5432/postgres?sslmode=require", os.Getenv("DB_Password"))
 }
 
 func ConnectDB() *gorm.DB {
 	dsn := ReadEnv()
 	db, err := gorm.Open(postgres.Open(dsn), &gorm.Config{})
 	if err != nil {
-		log.Fatalf("Error, tidak dapat menghubungkan ke databases")
+		log.Fatal(err.Error())
 	}
 	return db
 }
